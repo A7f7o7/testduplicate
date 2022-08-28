@@ -15,9 +15,9 @@ class ContentPage extends StatelessWidget {
       appBar: AppBar(title: (Text(SecondMenuTitlesList[index][index2] + ' ' + SecondMenuSubtitlesList[index][index2],)),
       ),
       body: 
-
-  Text(Content[SecondMenuTitlesList[index][index2]]?? '', style: TextStyle(fontSize: 21),)
-
+SingleChildScrollView(
+  child: Text(Content[SecondMenuTitlesList[index][index2]]?? '', style: TextStyle(fontSize: 21),)
+)
       );
   }
 }

@@ -53,30 +53,30 @@ var FirstMenuSubtitles = [
 ];
 
 var Article1Sections = [
-  '1.1',
-  '1.2',
-  '1.3',
-  '1.4',
-  '1.5',
-  '1.6',
-  '1.7',
-  '1.8',
-  '1.9',
-  '1.10',
-  '1.10a',
-  '1.11',
-  '1.12',
-  '1.13',
-  '1.14',
-  '1.15',
-  '1.16',
-  '1.17',
-  '1.18',
-  '1.19',
-  '1.19a',
-  '1.19b',
-  '1.20',
-  '1.21'
+  'I-1',
+  'I-2',
+  'I-3',
+  'I-4',
+  'I-5',
+  'I-6',
+  'I-7',
+  'I-8',
+  'I-9',
+  'I-10',
+  'I-10a',
+  'I-11',
+  'I-12',
+  'I-13',
+  'I-14',
+  'I-15',
+  'I-16',
+  'I-17',
+  'I-18',
+  'I-19',
+  'I-19a',
+  'I-19b',
+  'I-20',
+  'I-21'
 ];
 var Article1Subtitles = [
   'Inalienable Rights',
@@ -106,56 +106,56 @@ var Article1Subtitles = [
 ];
 
 var Article2Sections = [
-  '2.1',
-  '2.1a',
-  '2.1b',
-  '2.1c',
-  '2.1d',
-  '2.1e',
-  '2.1f',
-  '2.1g',
-  '2.2',
-  '2.3',
-  '2.4',
-  '2.5',
-  '2.6',
-  '2.7',
-  '2.8',
-  '2.9',
-  '2.10',
-  '2.11',
-  '2.12',
-  '2.13',
-  '2.14',
-  '2.15',
-  '2.16',
-  '2.17',
-  '2.18',
-  '2.19',
-  '2.20',
-  '2.21',
-  '2.22',
-  '2.23',
-  '2.24',
-  '2.25',
-  '2.26',
-  '2.27',
-  '2.28',
-  '2.29',
-  '2.30',
-  '2.31',
-  '2.32',
-  '2.33',
-  '2.34',
-  '2.34a',
-  '2.35',
-  '2.36',
-  '2.37',
-  '2.38',
-  '2.39',
-  '2.40',
-  '2.41',
-  '2.42'
+  'II-1',
+  'II-1a',
+  'II-1b',
+  'II-1c',
+  'II-1d',
+  'II-1e',
+  'II-1f',
+  'II-1g',
+  'II-2',
+  'II-3',
+  'II-4',
+  'II-5',
+  'II-6',
+  'II-7',
+  'II-8',
+  'II-9',
+  'II-10',
+  'II-11',
+  'II-12',
+  'II-13',
+  'II-14',
+  'II-15',
+  'II-16',
+  'II-17',
+  'II-18',
+  'II-19',
+  'II-20',
+  'II-21',
+  'II-22',
+  'II-23',
+  'II-24',
+  'II-25',
+  'II-26',
+  'II-27',
+  'II-28',
+  'II-29',
+  'II-30',
+  'II-31',
+  'II-32',
+  'II-33',
+  'II-34',
+  'II-34a',
+  'II-35',
+  'II-36',
+  'II-37',
+  'II-38',
+  'II-39',
+  'II-40',
+  'II-41',
+  'II-42'
 ];
 
 var Article2Subtitles = [
@@ -212,31 +212,31 @@ var Article2Subtitles = [
 ];
 
 var Article3Sections = [
-  '3.1',
-  '3.1a',
-  '3.1b',
-  '3.2',
-  '3.3',
-  '3.4',
-  '3.5',
-  '3.6',
-  '3.7',
-  '3.8',
-  '3.9',
-  '3.10',
-  '3.11',
-  '3.12',
-  '3.13',
-  '3.14',
-  '3.15',
-  '3.16',
-  '3.17',
-  '3.17a',
-  '3.18',
-  '3.19',
-  '3.20',
-  '3.21',
-  '3.22'
+  'III-1',
+  'III-1a',
+  'III-1b',
+  'III-2',
+  'III-3',
+  'III-4',
+  'III-5',
+  'III-6',
+  'III-7',
+  'III-8',
+  'III-9',
+  'III-10',
+  'III-11',
+  'III-12',
+  'III-13',
+  'III-14',
+  'III-15',
+  'III-16',
+  'III-17',
+  'III-17a',
+  'III-18',
+  'III-19',
+  'III-20',
+  'III-21',
+  'III-22'
 ];
 
 var Article3Subtitles = [
@@ -268,29 +268,29 @@ var Article3Subtitles = [
 ];
 
 var Article4Sections = [
-  '4.1',
-  '4.2',
-  '4.3',
-  '4.4',
-  '4.5',
-  '4.6',
-  '4.7',
-  '4.8',
-  '4.9',
-  '4.10',
-  '4.11',
-  '4.12',
-  '4.13',
-  '4.14',
-  '4.15',
-  '4.16',
-  '4.17',
-  '4.18',
-  '4.19',
-  '4.20',
-  '4.21',
-  '4.22',
-  '4.23'
+  'IV-1',
+  'IV-2',
+  'IV-3',
+  'IV-4',
+  'IV-5',
+  'IV-6',
+  'IV-7',
+  'IV-8',
+  'IV-9',
+  'IV-10',
+  'IV-11',
+  'IV-12',
+  'IV-13',
+  'IV-14',
+  'IV-15',
+  'IV-16',
+  'IV-17',
+  'IV-18',
+  'IV-19',
+  'IV-20',
+  'IV-21',
+  'IV-22',
+  'IV-23'
 ];
 
 var Article4Subtitles = [
@@ -319,7 +319,18 @@ var Article4Subtitles = [
   'Judges in less populous counties; service on more than one court'
 ];
 
-var Article5Sections = ['5.1', '5.2', '5.2a', '5.3', '5.4', '5.5', '5.6', '5.7', '5.8', '5.9'];
+var Article5Sections = [
+  'V-1',
+  'V-2',
+  'V-2a',
+  'V-3',
+  'V-4',
+  'V-5',
+  'V-6',
+  'V-7',
+  'V-8',
+  'V-9'
+];
 
 var Article5Subtitles = [
   'Who may vote',
@@ -334,7 +345,7 @@ var Article5Subtitles = [
   'Eligibility of officeholders'
 ];
 
-var Article6Sections = ['6.1', '6.2', '6.3', '6.4', '6.5', '6.6'];
+var Article6Sections = ['VI-1', 'VI-2', 'VI-3', 'VI-4', 'VI-5', 'VI-6'];
 
 var Article6Subtitles = [
   'Funds for religious and educational programs',
@@ -345,7 +356,7 @@ var Article6Subtitles = [
   'Tuition credit program'
 ];
 
-var Article7Sections = ['7.1', '7.2', '7.3'];
+var Article7Sections = ['VII-1', 'VII-2', 'VII-3'];
 
 var Article7Subtitles = [
   'Insane, blind, and deaf and dumb',
@@ -354,42 +365,42 @@ var Article7Subtitles = [
 ];
 
 var Article8Sections = [
-  '8.1',
-  '8.2',
-  '8.2a',
-  '8.2b',
-  '8.2c',
-  '8.2d',
-  '8.2e',
-  '8.2f',
-  '8.2g',
-  '8.2h',
-  '8.2i',
-  '8.2j',
-  '8.2k',
-  '8.2l',
-  '8.2m',
-  '8.2n',
-  '8.2o',
-  '8.2p',
-  '8.2q',
-  '8.2r',
-  '8.2s',
-  '8.3',
-  '8.4',
-  '8.5',
-  '8.6',
-  '8.7',
-  '8.8',
-  '8.9',
-  '8.10',
-  '8.11',
-  '8.12',
-  '8.13',
-  '8.14',
-  '8.15',
-  '8.16',
-  '8.17'
+  'VIII-1',
+  'VIII-2',
+  'VIII-2a',
+  'VIII-2b',
+  'VIII-2c',
+  'VIII-2d',
+  'VIII-2e',
+  'VIII-2f',
+  'VIII-2g',
+  'VIII-2h',
+  'VIII-2i',
+  'VIII-2j',
+  'VIII-2k',
+  'VIII-2l',
+  'VIII-2m',
+  'VIII-2n',
+  'VIII-2o',
+  'VIII-2p',
+  'VIII-2q',
+  'VIII-2r',
+  'VIII-2s',
+  'VIII-3',
+  'VIII-4',
+  'VIII-5',
+  'VIII-6',
+  'VIII-7',
+  'VIII-8',
+  'VIII-9',
+  'VIII-10',
+  'VIII-11',
+  'VIII-12',
+  'VIII-13',
+  'VIII-14',
+  'VIII-15',
+  'VIII-16',
+  'VIII-17'
 ];
 
 var Article8Subtitles = [
@@ -429,7 +440,7 @@ var Article8Subtitles = [
   'Limitations on obligations state may issue'
 ];
 
-var Article9Sections = ['9.1', '9.2', '9.3', '9.4', '9.5'];
+var Article9Sections = ['IX-1', 'IX-2', 'IX-3', 'IX-4', 'IX-5'];
 
 var Article9Subtitles = [
   'Who shall perform military duty',
@@ -439,7 +450,15 @@ var Article9Subtitles = [
   'Public arms'
 ];
 
-var Article10Sections = ['10.1', '10.2', '10.3', '10.4', '10.5', '10.6', '10.7'];
+var Article10Sections = [
+  'X-1',
+  'X-2',
+  'X-3',
+  'X-4',
+  'X-5',
+  'X-6',
+  'X-7'
+];
 
 var Article10Subtitles = [
   'Organization and government of counties; county home rule; submission',
@@ -451,8 +470,23 @@ var Article10Subtitles = [
   'Repealed'
 ];
 
-var Article11Sections = ['11.1', '11.2', '11.3', '11.4', '11.5', '11.6', '11.7', '11.8', '11.9', '11.10', '11.11', '11.12',
-'11.13','11.14','11.15'];
+var Article11Sections = [
+  'XI-1',
+  'XI-2',
+  'XI-3',
+  'XI-4',
+  'XI-5',
+  'XI-6',
+  'XI-7',
+  'XI-8',
+  'XI-9',
+  'XI-10',
+  'XI-11',
+  'XI-12',
+  'XI-13',
+  'XI-14',
+  'XI-15'
+];
 
 var Article11Subtitles = [
   'Ohio Redistricting Commission',
@@ -473,21 +507,21 @@ var Article11Subtitles = [
 ];
 
 var Article12Sections = [
-  '12.1',
-  '12.2',
-  '12.2a',
-  '12.3',
-  '12.4',
-  '12.5',
-  '12.5a',
-  '12.6',
-  '12.7',
-  '12.8',
-  '12.9',
-  '12.10',
-  '12.11',
-  '12.12',
-  '12.13'
+  'XII-1',
+  'XII-2',
+  'XII-2a',
+  'XII-3',
+  'XII-4',
+  'XII-5',
+  'XII-5a',
+  'XII-6',
+  'XII-7',
+  'XII-8',
+  'XII-9',
+  'XII-10',
+  'XII-11',
+  'XII-12',
+  'XII-13'
 ];
 
 var Article12Subtitles = [
@@ -508,7 +542,15 @@ var Article12Subtitles = [
   'Wholesale taxes on foods'
 ];
 
-var Article13Sections = ['13.1', '13.2', '13.3', '13.4', '13.5', '13.6', '13.7'];
+var Article13Sections = [
+  'XIII-1',
+  'XIII-2',
+  'XIII-3',
+  'XIII-4',
+  'XIII-5',
+  'XIII-6',
+  'XIII-7'
+];
 
 var Article13Subtitles = [
   'Corporate powers',
@@ -520,12 +562,28 @@ var Article13Subtitles = [
   'Associations with banking powers'
 ];
 
-var Article14Sections = ['14.1','14.2','14.3'];
+var Article14Sections = ['XIV-1', 'XIV-2', 'XIV-3'];
 
-var Article14Subtitles = ['Ohio Livestock Care Standards Board','Repealed','Repealed'];
+var Article14Subtitles = [
+  'Ohio Livestock Care Standards Board',
+  'Repealed',
+  'Repealed'
+];
 
-var Article15Sections = ['15.1', '15.2', '15.3', '15.4', '15.5','15.6', '15.7', 
-'15.8','15.9', '15.9a','15.10', '15.11'];
+var Article15Sections = [
+  'XV-1',
+  'XV-2',
+  'XV-3',
+  'XV-4',
+  'XV-5',
+  'XV-6',
+  'XV-7',
+  'XV-8',
+  'XV-9',
+  'XV-9a',
+  'XV-10',
+  'XV-11'
+];
 
 var Article15Subtitles = [
   'Seat of government',
@@ -542,7 +600,7 @@ var Article15Subtitles = [
   'Marriage Amendment'
 ];
 
-var Article16Sections = ['16.1', '16.2', '16.3'];
+var Article16Sections = ['XVI-1', 'XVI-2', 'XVI-3'];
 
 var Article16Subtitles = [
   'How constitution to be amended; ballot; Supreme Court to hear challenges',
@@ -550,7 +608,7 @@ var Article16Subtitles = [
   'Question of constitutional convention to be submitted periodically'
 ];
 
-var Article17Sections = ['17.1', '17.2','17.3'];
+var Article17Sections = ['XVII-1', 'XVII-2', 'XVII-3'];
 
 var Article17Subtitles = [
   'Time for holding',
@@ -559,20 +617,20 @@ var Article17Subtitles = [
 ];
 
 var Article18Sections = [
-  '18.1',
-  '18.2',
-  '18.3',
-  '18.4',
-  '18.5',
-  '18.6',
-  '18.7',
-  '18.8',
-  '18.9',
-  '18.10',
-  '18.11',
-  '18.12',
-  '18.13',
-  '18.14'
+  'XVIII-1',
+  'XVIII-2',
+  'XVIII-3',
+  'XVIII-4',
+  'XVIII-5',
+  'XVIII-6',
+  'XVIII-7',
+  'XVIII-8',
+  'XVIII-9',
+  'XVIII-10',
+  'XVIII-11',
+  'XVIII-12',
+  'XVIII-13',
+  'XVIII-14'
 ];
 
 var Article18Subtitles = [
@@ -592,7 +650,7 @@ var Article18Subtitles = [
   'Elections'
 ];
 
-var Article19Sections = ['19.1', '19.2', '19.3'];
+var Article19Sections = ['XIX-1', 'XIX-2', 'XIX-3'];
 
 var Article19Subtitles = [
   'Method of adopting congressional redistricting plan',
@@ -752,10 +810,14 @@ var ArticleHeaders = [
 ];
 
 var Content = {
-  SecondMenuTitlesList[0][0]: 'We, the people of the State of Ohio, grateful to Almighty God for our freedom, to secure its blessings and promote our common welfare, do establish this Constitution.',
-  SecondMenuTitlesList[1][0]: 'All men are, by nature, free and independent, and have certain inalienable rights, among which are those of enjoying and defending life and liberty, acquiring, possessing, and protecting property, and seeking and obtaining happiness and safety.',
-  SecondMenuTitlesList[1][1]: 'All political power is inherent in the people. Government is instituted for their equal protection and benefit, and they have the right to alter, reform, or abolish the same, whenever they may deem it necessary; and no special privileges or immunities shall ever be granted, that may not be altered, revoked, or repealed by the general assembly.',
-  SecondMenuTitlesList[1][2]: 'The people have the right to assemble together, in a peaceable manner, to consult for their common good; to instruct their representatives; and to petition the general assembly for the redress of grievances.',
+  SecondMenuTitlesList[0][0]:
+      'We, the people of the State of Ohio, grateful to Almighty God for our freedom, to secure its blessings and promote our common welfare, do establish this Constitution.',
+  SecondMenuTitlesList[1][0]:
+      'All men are, by nature, free and independent, and have certain inalienable rights, among which are those of enjoying and defending life and liberty, acquiring, possessing, and protecting property, and seeking and obtaining happiness and safety.',
+  SecondMenuTitlesList[1][1]:
+      'All political power is inherent in the people. Government is instituted for their equal protection and benefit, and they have the right to alter, reform, or abolish the same, whenever they may deem it necessary; and no special privileges or immunities shall ever be granted, that may not be altered, revoked, or repealed by the general assembly.',
+  SecondMenuTitlesList[1][2]:
+      'The people have the right to assemble together, in a peaceable manner, to consult for their common good; to instruct their representatives; and to petition the general assembly for the redress of grievances.',
   SecondMenuTitlesList[1][3]:
       'The people have the right to bear arms for their defense and security; but standing armies, in time of peace, are dangerous to liberty, and shall not be kept up; and the military shall be in strict subordination to the civil power.',
   SecondMenuTitlesList[1][4]:
@@ -767,7 +829,7 @@ var Content = {
   SecondMenuTitlesList[1][7]:
       'The privilege of the writ of habeas corpus shall not be suspended, unless, in cases of rebellion or invasion, the public safety require it.',
   SecondMenuTitlesList[1][8]:
-      'All persons shall be bailable by sufficient sureties, except for a person who is charged with a capital offense where the proof is evident or the presumption great, and except for a person who is charged with a felony where the proof is evident or the presumption great and where the person poses a substantial risk of serious physical harm to any person or to the community. Where a person is charged with any offense for which the person may be incarcerated, the court may determineat any time the type, amount, and conditions of bail. Excessive bail shall not be required; nor excessive fines imposed; nor cruel and unusual punishments inflicted. \n The General Assembly shall fix by law standards to determine whether a person who is charged with a felony where the proof is evident or the presumptiongreat poses a substantial risk of serious physical harm to any person or to the community. Procedures for establishingthe amount and conditions of bail shall be established pursuant to Article IV, Section 5(b) of the Constitution of the state of Ohio.',
+      'All persons shall be bailable by sufficient sureties, except for a person who is charged with a capital offense where the proof is evident or the presumption great, and except for a person who is charged with a felony where the proof is evident or the presumption great and where the person poses a substantial risk of serious physical harm to any person or to the community. Where a person is charged with any offense for which the person may be incarcerated, the court may determineat any time the type, amount, and conditions of bail. Excessive bail shall not be required; nor excessive fines imposed; nor cruel and unusual punishments inflicted. \n\nThe General Assembly shall fix by law standards to determine whether a person who is charged with a felony where the proof is evident or the presumptiongreat poses a substantial risk of serious physical harm to any person or to the community. Procedures for establishingthe amount and conditions of bail shall be established pursuant to Article IV, Section 5(b) of the Constitution of the state of Ohio.',
   SecondMenuTitlesList[1][9]:
       'Except in cases of impeachment, cases arising in the army and navy, or in the militia when in actual service in time of war or public danger, and cases involving offenses for which the penalty provided is less than imprisonment in the penitentiary, no person shall be held to answer for a capital, or otherwise infamous, crime, unless on presentment or indictment of a grand jury; and the number of persons necessary to constitute such grand jury and the number thereof necessary to concur in finding such indictment shall be determined by law. In any trial, in any court, the party accused shall be allowed to appear and defend in person and with counsel; to demand the nature and cause of the accusation against him, and to have a copy thereof; to meet the witnesses face to face, and to have compulsory process to procure the attendance of witnesses in his behalf, and a speedy public trial by an impartial jury of the county in which the offense is alleged to have been committed; but provision may be made by law for the taking of the deposition by the accused or by the state, to be used for or against the accused, of any witness whose attendance can not be had at the trial, always securing to the accused means and the opportunity to be present in person and with counsel at the taking of such deposition, and to examine the witness face to face as fully and in the same manner as if in court. No person shall be compelled, in any criminal case, to be a witness against himself; but his failure to testify may be considered by the court and jury and may be made the subject of comment by counsel. No person shall be twice put in jeopardy for the same offense.',
   SecondMenuTitlesList[1][10]:
@@ -845,48 +907,57 @@ var Content = {
   SecondMenuTitlesList[2][22]:
       'If the governor approves an act, he shall sign it, it becomes law and he shall file it with the secretary of state.\n\nIf he does not approve it, he shall return it with his objections in writing, to the house in which it originated, which shall enter the objections at large upon its journal, and may then reconsider the vote on its passage. If three-fifths of the members elected to the house of origin vote to repass the bill, it shall be sent, with the objections of the governor, to the other house, which may also reconsider the vote on its passage. If three-fifths of the members elected to the second house vote to repass it, it becomes law notwithstanding the objections of the governor, and the presiding officer of the second house shall file it with the secretary of state. In no case shall a bill be repassed by a smaller vote than is required by the constitution on its original passage. In all cases of reconsideration the vote of each house shall be determined by yeas and nays, and the names of the members voting for and against the bill shall be entered upon the journal.\n\nIf a bill is not returned by the governor within ten days, Sundays excepted, after being presented to him, it becomes law in like manner as if he had signed it, unless the general assembly by adjournment prevents its return; in which case, it becomes law unless, within ten days after such adjournment, it is filed by him, with his objections in writing, in the office of the secretary of state. The governor shall file with the secretary of state every bill not returned by him to the house of origin that becomes law without his signature.\n\nThe governor may disapprove any item or items in any bill making an appropriation of money and the item or items, so disapproved, shall be void, unless repassed in the manner prescribed by this section for the repassage of a bill.',
   SecondMenuTitlesList[2][23]:
-      'The general assembly, in cases not provided for in this constitution, shall fix the term of office and the compensation of all officers; but no change therein shall affect the salary of any officer during his existing term, unless the office be abolished.',
-  SecondMenuTitlesList[2][24]:
-      'The general assembly shall determine, by law, before what authority, and in what manner, the trial of contested elections shall be conducted.',
+      'Referred to the signing of all bills and joint resolutions by the presiding officer of each house,',
+  SecondMenuTitlesList[2][24]: 'Referred to the style of laws.',
   SecondMenuTitlesList[2][25]:
-      'No money shall be drawn from the treasury, except in pursuance of a specific appropriation, made by law; and no appropriation shall be made for a longer period than two years.',
+      'Referred to the exclusion of senators and representatives from appointment to any civil office of this state.',
   SecondMenuTitlesList[2][26]:
-      'The house of Representatives shall have the sole power of impeachment, but a majority of the members elected must concur therein. Impeachments shall be tried by the senate; and the senators, when sitting for that purpose, shall be upon oath or affirmation to do justice according to law and evidence. No person shall be convicted without the concurrence of two-thirds of the senators.',
+      'The general assembly, in cases not provided for in this constitution, shall fix the term of office and the compensation of all officers; but no change therein shall affect the salary of any officer during his existing term, unless the office be abolished.',
   SecondMenuTitlesList[2][27]:
-      'The governor, judges, and all state officers, may be impeached for any misdemeanor in office; but judgment shall not extend further than removal from office, and disqualification to hold any office under the authority of this state. The party impeached, whether convicted or not, shall be liable to indictment, trial, and judgment, according to law.',
+      'The general assembly shall determine, by law, before what authority, and in what manner, the trial of contested elections shall be conducted.',
   SecondMenuTitlesList[2][28]:
-      'All laws, of a general nature, shall have a uniform operation throughout the state; nor, shall any act, except such as relates to public schools, be passed, to take effect upon the approval of any other authority than the general assembly, except, as otherwise provided in this constitution.',
+      'No money shall be drawn from the treasury, except in pursuance of a specific appropriation, made by law; and no appropriation shall be made for a longer period than two years.',
   SecondMenuTitlesList[2][29]:
-      'The election and appointment of all officers, and the filling of all vacancies, not otherwise provided for by this constitution, or the constitution of the United States, shall be made in such manner as may be directed by law; but no appointing power shall be exercised by the General Assembly, except as prescribed in this constitution; and in these cases, the vote shall be taken "viva voce."',
+      'The house of Representatives shall have the sole power of impeachment, but a majority of the members elected must concur therein. Impeachments shall be tried by the senate; and the senators, when sitting for that purpose, shall be upon oath or affirmation to do justice according to law and evidence. No person shall be convicted without the concurrence of two-thirds of the senators.',
   SecondMenuTitlesList[2][30]:
-      'The general assembly shall have no power to pass retroactive laws, or laws impairing the obligation of contracts; but may, by general laws, authorize courts to carry into effect, upon such terms as shall be just and equitable, the manifest intention of parties, and officers, by curing omissions, defects, and errors, in instruments and proceedings, arising out of their want of conformity with the laws of this state.',
+      'The governor, judges, and all state officers, may be impeached for any misdemeanor in office; but judgment shall not extend further than removal from office, and disqualification to hold any office under the authority of this state. The party impeached, whether convicted or not, shall be liable to indictment, trial, and judgment, according to law.',
   SecondMenuTitlesList[2][31]:
-      'No extra compensation shall be made to any officer, public agent, or contractor, after the service shall have been rendered, or the contract entered into; nor shall any money be paid, on any claim, the subject matter of which shall not have been provided for by pre-existing law, unless such compensation, or claim, be allowed by two-thirds of the members elected to each branch of the General Assembly.',
+      'This section referred to when sessions of general assembly shall commence.',
   SecondMenuTitlesList[2][32]:
-      'No new county shall contain less than four hundred square miles of territory, nor shall any county be reduced below that amount; and all laws creating new counties, changing county lines, or removing county seats, shall, before taking effect, be submitted to the electors of the several counties to be affected thereby, at the next general election after the passage thereof, and be adopted by a majority of all the electors voting at such election, in each of said counties; but any county now or hereafter containing one hundred thousand inhabitants, may be divided, whenever a majority of the voters residing in each of the proposed divisions shall approve of the law passed for that purpose; but no town or city within the same shall be divided, nor shall either of the divisions contain less than twenty thousand inhabitants.',
+      'All laws, of a general nature, shall have a uniform operation throughout the state; nor, shall any act, except such as relates to public schools, be passed, to take effect upon the approval of any other authority than the general assembly, except, as otherwise provided in this constitution.',
   SecondMenuTitlesList[2][33]:
-      'The members and officers of the general assembly shall receive a fixed compensation, to be prescribed by law, and no other allowance or perquisites, either in the payment of postage or otherwise; and no change in their compensation shall take effect during their term of office.',
+      'The election and appointment of all officers, and the filling of all vacancies, not otherwise provided for by this constitution, or the constitution of the United States, shall be made in such manner as may be directed by law; but no appointing power shall be exercised by the General Assembly, except as prescribed in this constitution; and in these cases, the vote shall be taken "viva voce."',
   SecondMenuTitlesList[2][34]:
-      'The general assembly shall grant no divorce, nor exercise any judicial power not herein expressly conferred.',
+      'The general assembly shall have no power to pass retroactive laws, or laws impairing the obligation of contracts; but may, by general laws, authorize courts to carry into effect, upon such terms as shall be just and equitable, the manifest intention of parties, and officers, by curing omissions, defects, and errors, in instruments and proceedings, arising out of their want of conformity with the laws of this state.',
   SecondMenuTitlesList[2][35]:
-      'Laws may be passed to secure to mechanics, artisans, laborers, sub-contractors and material men, their just dues by direct lien upon the property, upon which they have bestowed labor or for which they have furnished material. No other provision of the constitution shall impair or limit this power.',
+      'No extra compensation shall be made to any officer, public agent, or contractor, after the service shall have been rendered, or the contract entered into; nor shall any money be paid, on any claim, the subject matter of which shall not have been provided for by pre-existing law, unless such compensation, or claim, be allowed by two-thirds of the members elected to each branch of the General Assembly.',
   SecondMenuTitlesList[2][36]:
-      'Except as provided in this section, every employer shall pay their employees a wage rate of not less than six dollars and eighty-five cents per hour beginning January 1, 2007. On the thirtieth day of each September, beginning in 2007, this state minimum wage rate shall be increased effective the first day of the following January by the rate of inflation for the twelve month period prior to that September according to the consumer price index or its successor index for all urban wage earners and clerical workers for all items as calculated by the federal government rounded to the nearest five cents. Employees under the age of sixteen and employees of businesses with annual gross receipts of two hundred fifty thousand dollars or less for the preceding calendar year shall be paid a wage rate of not less than that established under the federal Fair Labor Standards Act or its successor law. This gross revenue figure shall be increased each year beginning January 1, 2008 by the change in the consumer price index or its successor index in the same manner as the required annual adjustment in the minimum wage rate set forth above rounded to the nearest one thousand dollars. An employer may pay an employee less than, but not less than half, the minimum wage rate required by this section if the employer is able to demonstrate that the employee receives tips that combined with the wages paid by the employer are equal to or greater than the minimum wage rate for all hours worked. The provisions of this section shall not apply to employees of a solely family owned and operated business who are family members of an owner. The state may issue licenses to employers authorizing payment of a wage rate below that required by this section to individuals with mental or physical disabilities that may otherwise adversely affect their opportunity for employment.\n\nAs used in this section: "employer," "employee," "employ," "person" and "independent contractor"have the same meanings as under the federal Fair Labor Standards Act or its successor law, except that "employer" shall also include the state and every political subdivision and "employee" shall not include an individual employed in or about the property of the employer or individual\'s residence on a casual basis. Only the exemptions set forth in this section shall apply to this section.\n\nAn employer shall at the time of hire provide an employee the employer\'s name, address, telephone number, and other contact information and update such information when it changes. An employer shall maintain a record of the name, address, occupation, pay rate, hours worked for each day worked and each amount paid an employee for a period of not less than three years following the last date the employee was employed. Such information shall be provided without charge to an employee or person acting on behalf of an employee upon request. An employee, person acting on behalf of one or more employees and/or any other interested party may file a complaint with the state for a violation of any provision of this section or any law or regulation implementing its provisions. Such complaint shall be promptly investigated and resolved by the state. The employee\'s name shall be kept confidential unless disclosure is necessary to resolution of a complaint and the employee consents to disclosure. The state may on its own initiative investigate an employer\'s compliance with this section and any law or regulation implementing its provisions. The employer shall make available to the state any records related to such investigation and other information required for enforcement of this section or any law or regulation implementing its provisions. No employer shall discharge or in any other manner discriminate or retaliate against an employee for exercising any right under this section or any law or regulation implementing its provisions or against any person for providing assistance to an employee or information regarding the same.\n\nAn action for equitable and monetary relief may be brought against an employer by the attorney general and/or an employee or person acting on behalf of an employee or all similarly situated employees in any court of competent jurisdiction, including the common pleas court of an employee\'s county of residence, for any violation of this section or any law or regulation implementing its provisions within three years of the violation or of when the violation ceased if it was of a continuing nature, or within one year after notification to the employee of final disposition by the state of a complaint for the same violation, whichever is later. There shall be no exhaustion requirement, no procedural, pleading or burden of proof requirements beyond those that apply generally to civil suits in order to maintain such action and no liability for costs or attorney\'s fees on an employee except upon a finding that such action was frivolous in accordance with the same standards that apply generally in civil suits. Where an employer is found by the state or a court to have violated any provision of this section, the employer shall within thirty days of the finding pay the employee back wages, damages, and the employee\'s costs and reasonable attorney\'s fees. Damages shall be calculated as an additional two times the amount of the back wages and in the case of a violation of an anti-retaliation provision an amount set by the state or court sufficient to compensate the employee and deter future violations, but not less than one hundred fifty dollars for each day that the violation continued. Payment under this paragraph shall not be stayed pending any appeal.\n\nThis section shall be liberally construed in favor of its purposes. Laws may be passed to implement its provisions and create additional remedies, increase the minimum wage rate and extend the coverage of the section, but in no manner restricting any provision of the section or the power of municipalities under Article XVIII of this constitution with respect to the same.\n\nIf any part of this section is held invalid, the remainder of the section shall not be affected by such holding and shall continue in full force and effect.',
+      'No new county shall contain less than four hundred square miles of territory, nor shall any county be reduced below that amount; and all laws creating new counties, changing county lines, or removing county seats, shall, before taking effect, be submitted to the electors of the several counties to be affected thereby, at the next general election after the passage thereof, and be adopted by a majority of all the electors voting at such election, in each of said counties; but any county now or hereafter containing one hundred thousand inhabitants, may be divided, whenever a majority of the voters residing in each of the proposed divisions shall approve of the law passed for that purpose; but no town or city within the same shall be divided, nor shall either of the divisions contain less than twenty thousand inhabitants.',
   SecondMenuTitlesList[2][37]:
-      'For the purpose of providing compensation to workmen and their dependents, for death, injuries or occupational disease, occasioned in the course of such workmen\'s employment, laws may be passed establishing a state fund to be created by compulsory contribution thereto by employers, and administered by the state, determining the terms and conditions upon which payment shall be made therefrom. Such compensation shall be in lieu of all other rights to compensation, or damages, for such death, injuries, or occupational disease, and any employer who pays the premium or compensation provided by law, passed in accordance herewith, shall not be liable to respond in damages at common law or by statute for such death, injuries or occupational disease. Laws may be passed establishing a board which may be empowered to classify all occupations, according to their degree of hazard, to fix rates of contribution to such fund according to such classification, and to collect, administer and distribute such fund, and to determine all right of claimants thereto. Such board shall set aside as a separate fund such proportion of the contributions paid by employers as in its judgment may be necessary, not to exceed one per centum thereof in any year, and so as to equalize, insofar as possible, the burden thereof, to be expended by such board in such manner as may be provided by law for the investigation and prevention of industrial accidents and diseases. Such board shall have full power and authority to hear and determine whether or not an injury, disease or death resulted because of the failure of the employer to comply with any specific requirement for the protection of the lives, health or safety of employes, enacted by the General Assembly or in the form of an order adopted by such board, and its decision shall be final; and for the purpose of such investigations and inquiries it may appoint referees. When it is found, upon hearing, that an injury, disease or death resulted because of such failure by the employer, such amount as shall be found to be just, not greater than fifty nor less than fifteen per centum of the maximum award established by law, shall be added by the board, to the amount of the compensation that may be awarded on account of such injury, disease, or death, and paid in like manner as other awards; and, if such compensation is paid from the state fund, the premium of such employer shall be increased in such amount, covering such period of time as may be fixed, as will recoup the state fund in the amount of such additional award, notwithstanding any and all other provisions in this constitution.',
+      'The members and officers of the general assembly shall receive a fixed compensation, to be prescribed by law, and no other allowance or perquisites, either in the payment of postage or otherwise; and no change in their compensation shall take effect during their term of office.',
   SecondMenuTitlesList[2][38]:
-      'Laws may be passed to encourage forestry and agriculture, and to that end areas devoted exclusively to forestry may be exempted, in whole or in part, from taxation. Notwithstanding the provisions of section 2 of Article XII, laws may be passed to provide that land devoted exclusively to agricultural use be valued for real property tax purposes at the current value such land has for such agricultural use. Laws may also be passed to provide for the deferral or recoupment of any part of the difference in the dollar amount of real property tax levied in any year on land valued in accordance with its agricultural use and the dollar amount of real property tax which would have been levied upon such land had it been valued for such year in accordance with section 2 of Article XII. Laws may also be passed to provide for converting into forest reserves such lands or parts of lands as have been or may be forfeited to the state, and to authorize the acquiring of other lands for that purpose; also, to provide for the conservation of the natural resources of the state, including streams, lakes, submerged and swamp lands and the development and regulation of water power and the formation of drainage and conservation districts; and to provide for the regulation of methods of mining, weighing, measuring and marketing coal, oil, gas and all other minerals.',
+      'The general assembly shall grant no divorce, nor exercise any judicial power not herein expressly conferred.',
   SecondMenuTitlesList[2][39]:
-      'Except in cases of extraordinary emergency, not to exceed eight hours shall constitute a day\'s work, and not to exceed forty-eight hours a week\'s work, for workmen engaged on any public work carried on or aided by the state, or any political sub-division thereof, whether done by contract, or otherwise.',
+      'Laws may be passed to secure to mechanics, artisans, laborers, sub-contractors and material men, their just dues by direct lien upon the property, upon which they have bestowed labor or for which they have furnished material. No other provision of the constitution shall impair or limit this power.',
   SecondMenuTitlesList[2][40]:
-      'Laws shall be passed providing for the prompt removal from office, upon complaint and hearing, of all officers, including state officers, judges and members of the general assembly, for any misconduct involving moral turpitude or for other cause provided by law; and this method of removal shall be in addition to impeachment or other method of removal authorized by the constitution.',
+      'Laws may be passed fixing and regulating the hours of labor, establishing a minimum wage, and providing for the comfort, health, safety and general welfare of all employes; and no other provision of the constitution shall impair or limit this power.',
   SecondMenuTitlesList[2][41]:
-      'Laws may be passed for the regulation of the use of expert witnesses and expert testimony in criminal trials and proceedings.',
+      'Except as provided in this section, every employer shall pay their employees a wage rate of not less than six dollars and eighty-five cents per hour beginning January 1, 2007. On the thirtieth day of each September, beginning in 2007, this state minimum wage rate shall be increased effective the first day of the following January by the rate of inflation for the twelve month period prior to that September according to the consumer price index or its successor index for all urban wage earners and clerical workers for all items as calculated by the federal government rounded to the nearest five cents. Employees under the age of sixteen and employees of businesses with annual gross receipts of two hundred fifty thousand dollars or less for the preceding calendar year shall be paid a wage rate of not less than that established under the federal Fair Labor Standards Act or its successor law. This gross revenue figure shall be increased each year beginning January 1, 2008 by the change in the consumer price index or its successor index in the same manner as the required annual adjustment in the minimum wage rate set forth above rounded to the nearest one thousand dollars. An employer may pay an employee less than, but not less than half, the minimum wage rate required by this section if the employer is able to demonstrate that the employee receives tips that combined with the wages paid by the employer are equal to or greater than the minimum wage rate for all hours worked. The provisions of this section shall not apply to employees of a solely family owned and operated business who are family members of an owner. The state may issue licenses to employers authorizing payment of a wage rate below that required by this section to individuals with mental or physical disabilities that may otherwise adversely affect their opportunity for employment.\n\nAs used in this section: "employer," "employee," "employ," "person" and "independent contractor"have the same meanings as under the federal Fair Labor Standards Act or its successor law, except that "employer" shall also include the state and every political subdivision and "employee" shall not include an individual employed in or about the property of the employer or individual\'s residence on a casual basis. Only the exemptions set forth in this section shall apply to this section.\n\nAn employer shall at the time of hire provide an employee the employer\'s name, address, telephone number, and other contact information and update such information when it changes. An employer shall maintain a record of the name, address, occupation, pay rate, hours worked for each day worked and each amount paid an employee for a period of not less than three years following the last date the employee was employed. Such information shall be provided without charge to an employee or person acting on behalf of an employee upon request. An employee, person acting on behalf of one or more employees and/or any other interested party may file a complaint with the state for a violation of any provision of this section or any law or regulation implementing its provisions. Such complaint shall be promptly investigated and resolved by the state. The employee\'s name shall be kept confidential unless disclosure is necessary to resolution of a complaint and the employee consents to disclosure. The state may on its own initiative investigate an employer\'s compliance with this section and any law or regulation implementing its provisions. The employer shall make available to the state any records related to such investigation and other information required for enforcement of this section or any law or regulation implementing its provisions. No employer shall discharge or in any other manner discriminate or retaliate against an employee for exercising any right under this section or any law or regulation implementing its provisions or against any person for providing assistance to an employee or information regarding the same.\n\nAn action for equitable and monetary relief may be brought against an employer by the attorney general and/or an employee or person acting on behalf of an employee or all similarly situated employees in any court of competent jurisdiction, including the common pleas court of an employee\'s county of residence, for any violation of this section or any law or regulation implementing its provisions within three years of the violation or of when the violation ceased if it was of a continuing nature, or within one year after notification to the employee of final disposition by the state of a complaint for the same violation, whichever is later. There shall be no exhaustion requirement, no procedural, pleading or burden of proof requirements beyond those that apply generally to civil suits in order to maintain such action and no liability for costs or attorney\'s fees on an employee except upon a finding that such action was frivolous in accordance with the same standards that apply generally in civil suits. Where an employer is found by the state or a court to have violated any provision of this section, the employer shall within thirty days of the finding pay the employee back wages, damages, and the employee\'s costs and reasonable attorney\'s fees. Damages shall be calculated as an additional two times the amount of the back wages and in the case of a violation of an anti-retaliation provision an amount set by the state or court sufficient to compensate the employee and deter future violations, but not less than one hundred fifty dollars for each day that the violation continued. Payment under this paragraph shall not be stayed pending any appeal.\n\nThis section shall be liberally construed in favor of its purposes. Laws may be passed to implement its provisions and create additional remedies, increase the minimum wage rate and extend the coverage of the section, but in no manner restricting any provision of the section or the power of municipalities under Article XVIII of this constitution with respect to the same.\n\nIf any part of this section is held invalid, the remainder of the section shall not be affected by such holding and shall continue in full force and effect.',
   SecondMenuTitlesList[2][42]:
-      'Laws may be passed providing for a system of registering, transferring, insuring and guaranteeing land titles by the state or by the counties thereof, and for settling and determining adverse or other claims to and interests in, lands the titles to which are so registered, insured or guaranteed, and for the creation and collection of guaranty funds by fees to be assessed against lands, the titles to which are registered; and judicial powers with right of appeal may by law be conferred upon county recorders or other officers in matters arising under the operation of such system.',
+      'For the purpose of providing compensation to workmen and their dependents, for death, injuries or occupational disease, occasioned in the course of such workmen\'s employment, laws may be passed establishing a state fund to be created by compulsory contribution thereto by employers, and administered by the state, determining the terms and conditions upon which payment shall be made therefrom. Such compensation shall be in lieu of all other rights to compensation, or damages, for such death, injuries, or occupational disease, and any employer who pays the premium or compensation provided by law, passed in accordance herewith, shall not be liable to respond in damages at common law or by statute for such death, injuries or occupational disease. Laws may be passed establishing a board which may be empowered to classify all occupations, according to their degree of hazard, to fix rates of contribution to such fund according to such classification, and to collect, administer and distribute such fund, and to determine all right of claimants thereto. Such board shall set aside as a separate fund such proportion of the contributions paid by employers as in its judgment may be necessary, not to exceed one per centum thereof in any year, and so as to equalize, insofar as possible, the burden thereof, to be expended by such board in such manner as may be provided by law for the investigation and prevention of industrial accidents and diseases. Such board shall have full power and authority to hear and determine whether or not an injury, disease or death resulted because of the failure of the employer to comply with any specific requirement for the protection of the lives, health or safety of employes, enacted by the General Assembly or in the form of an order adopted by such board, and its decision shall be final; and for the purpose of such investigations and inquiries it may appoint referees. When it is found, upon hearing, that an injury, disease or death resulted because of such failure by the employer, such amount as shall be found to be just, not greater than fifty nor less than fifteen per centum of the maximum award established by law, shall be added by the board, to the amount of the compensation that may be awarded on account of such injury, disease, or death, and paid in like manner as other awards; and, if such compensation is paid from the state fund, the premium of such employer shall be increased in such amount, covering such period of time as may be fixed, as will recoup the state fund in the amount of such additional award, notwithstanding any and all other provisions in this constitution.',
   SecondMenuTitlesList[2][43]:
-      'Laws may be passed providing for and regulating the occupation and employment of prisoners sentenced to the several penal institutions and reformatories in the state.',
+      'Laws may be passed to encourage forestry and agriculture, and to that end areas devoted exclusively to forestry may be exempted, in whole or in part, from taxation. Notwithstanding the provisions of section 2 of Article XII, laws may be passed to provide that land devoted exclusively to agricultural use be valued for real property tax purposes at the current value such land has for such agricultural use. Laws may also be passed to provide for the deferral or recoupment of any part of the difference in the dollar amount of real property tax levied in any year on land valued in accordance with its agricultural use and the dollar amount of real property tax which would have been levied upon such land had it been valued for such year in accordance with section 2 of Article XII. Laws may also be passed to provide for converting into forest reserves such lands or parts of lands as have been or may be forfeited to the state, and to authorize the acquiring of other lands for that purpose; also, to provide for the conservation of the natural resources of the state, including streams, lakes, submerged and swamp lands and the development and regulation of water power and the formation of drainage and conservation districts; and to provide for the regulation of methods of mining, weighing, measuring and marketing coal, oil, gas and all other minerals.',
   SecondMenuTitlesList[2][44]:
+      'Except in cases of extraordinary emergency, not to exceed eight hours shall constitute a day\'s work, and not to exceed forty-eight hours a week\'s work, for workmen engaged on any public work carried on or aided by the state, or any political sub-division thereof, whether done by contract, or otherwise.',
+  SecondMenuTitlesList[2][45]:
+      'Laws shall be passed providing for the prompt removal from office, upon complaint and hearing, of all officers, including state officers, judges and members of the general assembly, for any misconduct involving moral turpitude or for other cause provided by law; and this method of removal shall be in addition to impeachment or other method of removal authorized by the constitution.',
+  SecondMenuTitlesList[2][46]:
+      'Laws may be passed for the regulation of the use of expert witnesses and expert testimony in criminal trials and proceedings.',
+  SecondMenuTitlesList[2][47]:
+      'Laws may be passed providing for a system of registering, transferring, insuring and guaranteeing land titles by the state or by the counties thereof, and for settling and determining adverse or other claims to and interests in, lands the titles to which are so registered, insured or guaranteed, and for the creation and collection of guaranty funds by fees to be assessed against lands, the titles to which are registered; and judicial powers with right of appeal may by law be conferred upon county recorders or other officers in matters arising under the operation of such system.',
+  SecondMenuTitlesList[2][48]:
+      'Laws may be passed providing for and regulating the occupation and employment of prisoners sentenced to the several penal institutions and reformatories in the state.',
+  SecondMenuTitlesList[2][49]:
       'The General Assembly shall have the power and the immediate duty to pass laws to provide for prompt and temporary succession to the powers and duties of public offices, of whatever nature and whether filled by election or appointment, the incumbents of which may become unavailable for carrying on the powers and duties of such offices and to pass such other laws as may be necessary and proper for insuring the continuity of governmental operations in periods of emergency resulting from disasters caused by enemy attack.',
   SecondMenuTitlesList[3][0]:
       'The executive department shall consist of a governor, lieutenant governor, secretary of state, auditor of state, treasurer of state, and an attorney general, who shall be elected on the first Tuesday after the first Monday in November, by the electors of the state, and at the places of voting for members of the General Assembly.',
@@ -899,16 +970,18 @@ var Content = {
   SecondMenuTitlesList[3][4]:
       'The returns of every election for the officers, named in the foregoing section, shall be sealed and transmitted to the seat of government, by the returning officers, directed to the President of the Senate, who, during the first week of the next regular session, shall open and publish them, and declare the result, in the presence of a majority of the members of each House of the General Assembly. The joint candidates having the highest number of votes cast for governor and lieutenant governor and the person having the highest number of votes for any other office shall be declared duly elected; but if any two or more have an equal and the highest number of votes for the same office or officers, one of them or any two for whom joint votes were cast for governor and lieutenant governor, shall be chosen by joint vote of both houses.',
   SecondMenuTitlesList[3][5]:
-      'The supreme executive power of this state shall be vested in the governor.',
+      'This section referred to returns of election made to the secretary of state when there is no session of the general assembly in January after an election.',
   SecondMenuTitlesList[3][6]:
-      'He may require information, in writing, from the officers in the executive department, upon any subject relating to the duties of their respective offices; and shall see that the laws are faithfully executed.',
+      'The supreme executive power of this state shall be vested in the governor.',
   SecondMenuTitlesList[3][7]:
-      'He shall communicate at every session, by message, to the general assembly, the condition of the state, and recommend such measures as he shall deem expedient.',
+      'He may require information, in writing, from the officers in the executive department, upon any subject relating to the duties of their respective offices; and shall see that the laws are faithfully executed.',
   SecondMenuTitlesList[3][8]:
-      'The governor on extraordinary occasions may convene the general assembly by proclamation and shall state in the proclamation the purpose for which such special session is called, and no other business shall be transacted at such special session except that named in the proclamation, or in a subsequent public proclamation or message to the general assembly issued by the governor during said special session, but the general assembly may provide for the expenses of the session and other matters incidental thereto.',
+      'He shall communicate at every session, by message, to the general assembly, the condition of the state, and recommend such measures as he shall deem expedient.',
   SecondMenuTitlesList[3][9]:
-      'In case of disagreement between the two houses, in respect to the time of adjournment, he shall have power to adjourn the general assembly to such time as he may think proper, but not beyond the regular meetings thereof.',
+      'The governor on extraordinary occasions may convene the general assembly by proclamation and shall state in the proclamation the purpose for which such special session is called, and no other business shall be transacted at such special session except that named in the proclamation, or in a subsequent public proclamation or message to the general assembly issued by the governor during said special session, but the general assembly may provide for the expenses of the session and other matters incidental thereto.',
   SecondMenuTitlesList[3][10]:
+      'In case of disagreement between the two houses, in respect to the time of adjournment, he shall have power to adjourn the general assembly to such time as he may think proper, but not beyond the regular meetings thereof.',
+  SecondMenuTitlesList[3][11]:
       'He shall be commander-in-chief of the military and naval forces of the state, except when they shall be called into the service of the United States.',
   SecondMenuTitlesList[3][11]:
       'The Governor shall have power, after conviction, to grant reprieves, commutations, and pardons, for all crimes and offenses, except treason and cases of impeachment, upon such conditions as the Governor may think proper; subject, however, to such regulations, as to the manner of applying for commutations and pardons, as may be prescribed by law. Upon conviction for treason, the Governor may suspend the execution of the sentence, and report the case to the General Assembly, at its next meeting, when the General Assembly shall either pardon, commute the sentence, direct its execution, or grant a further reprieve. The Governor shall communicate to the general assembly, at every regular session, each case of reprieve, commutation, or pardon granted, stating the name and crime of the convict, the sentence, its date, and the date of the commutation, pardon, or reprieve, with the Governor\'s reasons therefor.',
@@ -921,18 +994,20 @@ var Content = {
   SecondMenuTitlesList[3][15]:
       '(A) In the case of the death, conviction on impeachment, resignation, or removal, of the Governor, the Lieutenant Governor shall succeed to the office of Governor.\n\n(B) When the Governor is unable to discharge the duties of office by reason of disability, the Lieutenant Governor shall serve as governor until the Governor\'s disability terminates.\n\n(C) In the event of a vacancy in the office of governor or when the Governor is unable to discharge the duties of office, the line of succession to the office of governor or to the position of serving as governor for the duration of the Governor\'s disability shall proceed from the Lieutenant Governor to the President of the senate and then to the Speaker of the House of Representatives.\n\n(D) Any person serving as governor for the duration of the Governor\'s disability shall have the powers, duties, and compensation of the office of governor. Any person who succeeds to the office of governor shall have the powers, duties, title, and compensation of the office of governor.\n\n(E) No person shall simultaneously serve as Governor and Lieutenant Governor, President of the senate, or Speaker of the House of Representatives, nor shall any person simultaneously receive the compensation of the office of governor and that of lieutenant governor, president of the Senate, or speaker of the House of Representatives.',
   SecondMenuTitlesList[3][16]:
-      'When a vacancy occurs in both the office of governor and lieutenant governor because of the death,\n\nconviction on impeachment, resignation, or removal of the persons elected to those offices prior to the expiration of the first twenty months of a term, a governor and lieutenant governor shall be elected at the next general election occurring in an even-numbered year after the vacancy occurs, for the unexpired portion of the term. The officer next in line of succession to the office of governor shall serve as governor from the occurrence of the vacancy until the newly elected governor has qualified.\n\nIf by reason of death, resignation, or disqualification, the governor-elect is unable to assume the office of governor at the commencement of the gubernatorial term, the lieutenant governor-elect shall assume the office of governor for the full term. If at the commencement of such term, the governor-elect fails to assume the office by reason of disability, the lieutenant governor-elect shall serve as governor until the disability of the governor-elect terminates.',
+      'This section referred to the lieutenant governor as president of the senate and the choosing of a president pro tempore in his absence.',
   SecondMenuTitlesList[3][17]:
-      'Whenever there is a vacancy in the office of the lieutenant governor, the governor shall nominate a lieutenant governor, who shall take office upon confirmation by vote of a majority of the members elected to each house of the General Assembly.',
+      'When a vacancy occurs in both the office of governor and lieutenant governor because of the death,\n\nconviction on impeachment, resignation, or removal of the persons elected to those offices prior to the expiration of the first twenty months of a term, a governor and lieutenant governor shall be elected at the next general election occurring in an even-numbered year after the vacancy occurs, for the unexpired portion of the term. The officer next in line of succession to the office of governor shall serve as governor from the occurrence of the vacancy until the newly elected governor has qualified.\n\nIf by reason of death, resignation, or disqualification, the governor-elect is unable to assume the office of governor at the commencement of the gubernatorial term, the lieutenant governor-elect shall assume the office of governor for the full term. If at the commencement of such term, the governor-elect fails to assume the office by reason of disability, the lieutenant governor-elect shall serve as governor until the disability of the governor-elect terminates.',
   SecondMenuTitlesList[3][18]:
-      'Should the office of Auditor of State, Treasurer of State, Secretary of State, or Attorney General become vacant, for any of the causes specified in the fifteenth section of this article, the Governor shall fill the vacancy until the disability is removed, or a successor elected and qualified. Such successor shall be elected for the unexpired term of the vacant office at the first general election in an even numbered year that occurs more than forty days after the vacancy has occurred; provided, that when the unexpired term ends within one year immediately following the date of such general election, an election to fill such unexpired term shall not be held and the appointment shall be for such unexpired term.',
+      'Whenever there is a vacancy in the office of the lieutenant governor, the governor shall nominate a lieutenant governor, who shall take office upon confirmation by vote of a majority of the members elected to each house of the General Assembly.',
   SecondMenuTitlesList[3][19]:
-      'The officers mentioned in this article shall, at stated times, receive for their services, a compensation to be established by law, which shall neither be increased nor diminished during the period for which they shall have been elected.',
+      'Should the office of Auditor of State, Treasurer of State, Secretary of State, or Attorney General become vacant, for any of the causes specified in the fifteenth section of this article, the Governor shall fill the vacancy until the disability is removed, or a successor elected and qualified. Such successor shall be elected for the unexpired term of the vacant office at the first general election in an even numbered year that occurs more than forty days after the vacancy has occurred; provided, that when the unexpired term ends within one year immediately following the date of such general election, an election to fill such unexpired term shall not be held and the appointment shall be for such unexpired term.',
   SecondMenuTitlesList[3][20]:
-      'The officers of the executive department, and of the public state institutions shall, at least five days preceding each regular session of the general assembly, severally report to the governor, who shall transmit such reports, with his message to the General Assembly.',
+      'The officers mentioned in this article shall, at stated times, receive for their services, a compensation to be established by law, which shall neither be increased nor diminished during the period for which they shall have been elected.',
   SecondMenuTitlesList[3][21]:
-      'When required by law, appointments to state office shall be subject to the advice and consent of the Senate. All statutory provisions requiring advice and consent of the Senate to appointments to state office heretofore enacted by the General Assembly are hereby validated, ratified and confirmed as to all appointments made hereafter, but any such provision may be altered or repealed by law.\n\nNo appointment shall be consented to without concurrence of a majority of the total number of Senators provided for by this Constitution, except as hereinafter provided for in the case of failure of the Senate to act. If the Senate has acted upon any appointment to which its consent is required and has refused to consent, an appointment of another person shall be made to fill the vacancy.\n\nIf an appointment is submitted during a session of the General Assembly, it shall be acted upon by the Senate during such session of the General Assembly, except that if such session of the General Assembly adjourns sine die within ten days after such submission without acting upon such appointment, it may be acted upon at the next session of the General Assembly.\n\nIf an appointment is made after the Senate has adjourned sine die, it shall be submitted to the Senate during the next session of the General Assembly.\n\nIn acting upon an appointment a vote shall be taken by a yea and nay vote of the members of the Senate and shall be entered upon its journal. Failure of the Senate to act by a roll call vote on an appointment by the governor within the time provided for herein shall constitute consent to such appointment.',
+      'The officers of the executive department, and of the public state institutions shall, at least five days preceding each regular session of the general assembly, severally report to the governor, who shall transmit such reports, with his message to the General Assembly.',
   SecondMenuTitlesList[3][22]:
+      'When required by law, appointments to state office shall be subject to the advice and consent of the Senate. All statutory provisions requiring advice and consent of the Senate to appointments to state office heretofore enacted by the General Assembly are hereby validated, ratified and confirmed as to all appointments made hereafter, but any such provision may be altered or repealed by law.\n\nNo appointment shall be consented to without concurrence of a majority of the total number of Senators provided for by this Constitution, except as hereinafter provided for in the case of failure of the Senate to act. If the Senate has acted upon any appointment to which its consent is required and has refused to consent, an appointment of another person shall be made to fill the vacancy.\n\nIf an appointment is submitted during a session of the General Assembly, it shall be acted upon by the Senate during such session of the General Assembly, except that if such session of the General Assembly adjourns sine die within ten days after such submission without acting upon such appointment, it may be acted upon at the next session of the General Assembly.\n\nIf an appointment is made after the Senate has adjourned sine die, it shall be submitted to the Senate during the next session of the General Assembly.\n\nIn acting upon an appointment a vote shall be taken by a yea and nay vote of the members of the Senate and shall be entered upon its journal. Failure of the Senate to act by a roll call vote on an appointment by the governor within the time provided for herein shall constitute consent to such appointment.',
+  SecondMenuTitlesList[3][23]:
       'The supreme court has original, exclusive, and final jurisdiction to determine disability of the governor or governor-elect upon presentment to it of a joint resolution by the general assembly, declaring that the governor or governor-elect is unable to discharge the powers and duties of the office of governor by reason of disability. Such joint resolution shall be adopted by a two-thirds vote of the members elected to each house. The supreme court shall give notice of the resolution to the governor and after a public hearing, at which all interested parties may appear and be represented, shall determine the question of disability. The court shall make its determination within twenty-one days after presentment of such resolution.\n\nIf the governor transmits to the supreme court a written declaration that the disability no longer exists, the supreme court shall, after public hearing at which all interested parties may appear and be represented, determine the question of the continuation of the disability. The court shall make its determination within twenty-one days after transmittal of such declaration.\n\nThe Supreme Court has original, exclusive, and final jurisdiction to determine all questions concerning succession to the office of the governor or to its powers and duties.',
   SecondMenuTitlesList[4][0]:
       'The judicial power of the state is vested in a supreme court, courts of appeals, courts of common pleas and divisions thereof, and such other courts inferior to the Supreme Court as may from time to time be established by law.',
@@ -946,28 +1021,57 @@ var Content = {
       '(A)(1) In addition to all other powers vested by this article in the supreme court, the supreme court shall have general superintendence over all courts in the state. Such general superintending power shall be exercised by the chief justice in accordance with rules promulgated by the Supreme Court.\n\n(2) The Supreme Court shall appoint an administrative director who shall assist the chief justice and who shall serve at the pleasure of the court. The compensation and duties of the administrative director shall be determined by the court.\n\n(3) The chief justice or acting chief justice, as necessity arises, shall assign any judge of a court of common pleas or a division thereof temporarily to sit or hold court on any other court of common pleas or division thereof or any court of appeals or shall assign any judge of a court of appeals temporarily to sit or hold court on any other court of appeals or any court of common pleas or division thereof and upon such assignment said judge shall serve in such assigned capacity until the termination of the assignment. Rules may be adopted to provide for the temporary assignment of judges to sit and hold court in any court established by law.\n\n(B) The Supreme court shall prescribe rules governing practice and procedure in all courts of the state, which rules shall not abridge, enlarge, or modify any substantive right. Proposed rules shall be filed by the court, not later than the fifteenth day of January, with the clerk of each house of the General Assembly during a regular session thereof, and amendments to any such proposed rules may be so filed not later than the first day of May in that session. Such rules shall take effect on the following first day of July, unless prior to such day the General Assembly adopts a concurrent resolution of disapproval. All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.\n\nCourts may adopt additional rules concerning local practice in their respective courts which are not inconsistent with the rules promulgated by the supreme court. The supreme court may make rules to require uniform record keeping for all courts of the state, and shall make rules governing the admission to the practice of law and discipline of persons so admitted.\n\n(C) The chief justice of the Supreme Court or any judge of that court designated by him shall pass upon the disqualification of any judge of the courts of appeals or courts of common pleas or division thereof. Rules may be adopted to provide for the hearing of disqualification matters involving judges of courts established by law.',
   SecondMenuTitlesList[4][5]:
       '(A)(1) The chief justice and the justices of the Supreme Court shall be elected by the electors of the state at large, for terms of not less than six years.\n\n(2) The judges of the courts of appeals shall be elected by the electors of their respective appellate districts, for terms of not less than six years.\n\n(3) The judges of the courts of common pleas and the divisions thereof shall be elected by the electors of the counties, districts, or, as may be provided by law, other subdivisions, in which their respective courts are located, for terms of not less than six years, and each judge of a court of common pleas or division thereof shall reside during his term of office in the county, district, or subdivision in which his court is located.\n\n(4) Terms of office of all judges shall begin on the days fixed by law, and laws shall be enacted to prescribe the times and mode of their election.\n\n(B) The judges of the Supreme Court, courts of appeals, courts of common pleas, and divisions thereof, and of all courts of record established by law, shall, at stated times, receive, for their services such compensation as may be provided by law, which shall not be diminished during their term of office. The compensation of all judges of the supreme court, except that of the chief justice, shall be the same. The compensation of all judges of the courts of appeals shall be the same. Common pleas judges and judges of divisions thereof, and judges of all courts of record established by law shall receive such compensation as may be provided by law. Judges shall receive no fees or perquisites, nor hold any other office of profit or trust, under the authority of this state, or of the United States. All votes for any judge, for any elective office, except a judicial office, under the authority of this state, given by the general assembly, or the people shall be void.\n\n(C) No person shall be elected or appointed to any judicial office if on or before the day when he shall assume the office and enter upon the discharge of its duties he shall have attained the age of seventy years. Any voluntarily retired judge, or any judge who is retired under this section, may be assigned with his consent, by the chief justice or acting chief justice of the Supreme Court to active duty as a judge and while so serving shall receive the established compensation for such office, computed upon a per diem basis, in addition to any retirement benefits to which he may be entitled. Laws may be passed providing retirement benefits for judges.',
-  SecondMenuTitlesList[4][6]:
-      'In case the office of any judge shall become vacant, before the expiration of the regular term for which he was elected, the vacancy shall be filled by appointment by the governor, until a successor is elected and has qualified; and such successor shall be elected for the unexpired term, at the first general election for the office which is vacant that occurs more than forty days after the vacancy shall have occurred; provided, however, that when the unexpired term ends within one year immediately following the date of such general election, an election to fill such unexpired term shall not be held and the appointment shall be for such unexpired term.',
+  SecondMenuTitlesList[4][6]: 'This section provided for probate courts.',
   SecondMenuTitlesList[4][7]:
-      'Laws may be passed to increase or diminish the number of judges of the supreme court, to increase beyond one or diminish to one the number of judges of the court of common pleas in any county, and to establish other courts, whenever two-thirds of the members elected to each house shall concur therein; but no such change, addition or diminution shall vacate the office of any judge; and any existing court heretofore created by law shall continue in existence until otherwise provided.',
+      'This section referred to the jurisdiction of the probate courts.',
   SecondMenuTitlesList[4][8]:
-      'Judges may be removed from office, by concurrent resolution of both houses of the general assembly, if two-thirds of the members, elected to each house, concur therein; but, no such removal shall be made, except upon complaint, the substance of which shall be entered on the journal, nor, until the party charged shall have had notice thereof, and an opportunity to be heard.',
+      'This section provided for justices of the peace.',
   SecondMenuTitlesList[4][9]:
-      'The several judges of the Supreme Court, of the common pleas, and of such other courts as may be created, shall, respectively, have and exercise such power and jurisdiction, at chambers, or otherwise, as may be directed by law.',
+      'This section referred to the election of other judges not otherwise provided for.',
   SecondMenuTitlesList[4][10]:
-      'The General Assembly may establish courts of conciliation, and prescribe their powers and duties; but such courts shall not render final judgment in any case, except upon submission, by the parties, of the matter in dispute, and their agreement to abide such judgment.',
-  SecondMenuTitlesList[4][11]:
-      'The style of all process shall be, "The State of Ohio;" all prosecutions shall be carried on, in the name, and by the authority, of the State of Ohio; and all indictments shall conclude, "against the peace and dignity of the State of Ohio."',
+      'This section referred to the classification of Supreme Court judges.',
+  SecondMenuTitlesList[4][11]: 'This section provided for common pleas judges.',
   SecondMenuTitlesList[4][12]:
-      'A commission, which shall consist of five members, shall be appointed by the governor, with the advice and consent of the senate, the members of which shall hold office for the term of three years from and after the first day of February, 1876, to dispose of such part of the business then on the dockets of the supreme court, as shall, by arrangement between said commission and said court, be transferred to such commission; and said commission shall have like jurisdiction and power in respect to such business as are or may be vested in said court; and the members of said commission shall receive a like compensation for the time being, with the judges of said court. A majority of the members of said commission shall be necessary to form a quorum or pronounce a decision, and its decision shall be certified, entered, and enforced as the judgments of the supreme court, and at the expiration of the term of said commission, all business undisposed of shall by it be certified to the supreme court and disposed of as if said commission had never existed. The clerk and reporter of said court shall be the clerk and reporter of said commission, and the commission shall have such other attendants not exceeding in number those provided by law for said court, which attendants said commission may appoint and remove at its pleasure. Any vacancy occurring in said commission, shall be filled by appointment of the governor, with the advice and consent of the senate, if the senate be in session, and if the senate be not in session, by the governor, but in such last case, such appointment shall expire at the end of the next session of the general assembly. The general assembly may, on application of the supreme court duly entered on the journal of the court and certified, provide by law, whenever two-thirds of such [each] house shall concur therein, from time to time, for the appointment, in like manner, of a like commission with like powers, jurisdiction and duties; provided, that the term of any such commission shall not exceed two years, nor shall it be created oftener than once in ten years.',
+      'In case the office of any judge shall become vacant, before the expiration of the regular term for which he was elected, the vacancy shall be filled by appointment by the governor, until a successor is elected and has qualified; and such successor shall be elected for the unexpired term, at the first general election for the office which is vacant that occurs more than forty days after the vacancy shall have occurred; provided, however, that when the unexpired term ends within one year immediately following the date of such general election, an election to fill such unexpired term shall not be held and the appointment shall be for such unexpired term.',
   SecondMenuTitlesList[4][13]:
-      'A commission, which shall consist of five members, shall be appointed by the governor, with the advice and consent of the senate, the members of which shall hold office for the term of three years from and after the first day of February, 1876, to dispose of such part of the business then on the dockets of the supreme court, as shall, by arrangement between said commission and said court, be transferred to such commission; and said commission shall have like jurisdiction and power in respect to such business as are or may be vested in said court; and the members of said commission shall receive a like compensation for the time being, with the judges of said court. A majority of the members of said commission shall be necessary to form a quorum or pronounce a decision, and its decision shall be certified, entered, and enforced as the judgments of the supreme court, and at the expiration of the term of said commission, all business undisposed of shall by it be certified to the supreme court and disposed of as if said commission had never existed. The clerk and reporter of said court shall be the clerk and reporter of said commission, and the commission shall have such other attendants not exceeding in number those provided by law for said court, which attendants said commission may appoint and remove at its pleasure. Any vacancy occurring in said commission, shall be filled by appointment of the governor, with the advice and consent of the senate, if the senate be in session, and if the senate be not in session, by the governor, but in such last case, such appointment shall expire at the end of the next session of the general assembly. The general assembly may, on application of the supreme court duly entered on the journal of the court and certified, provide by law, whenever two-thirds of such [each] house shall concur therein, from time to time, for the appointment, in like manner, of a like commission with like powers, jurisdiction and duties; provided, that the term of any such commission shall not exceed two years, nor shall it be created oftener than once in ten years.',
+      'This section referred to the compensation of judges of the Supreme Curt and court of common pleas and their ineligibility to hold other offices.',
   SecondMenuTitlesList[4][14]:
+      'Laws may be passed to increase or diminish the number of judges of the supreme court, to increase beyond one or diminish to one the number of judges of the court of common pleas in any county, and to establish other courts, whenever two-thirds of the members elected to each house shall concur therein; but no such change, addition or diminution shall vacate the office of any judge; and any existing court heretofore created by law shall continue in existence until otherwise provided.',
+  SecondMenuTitlesList[4][15]:
+      'This section referred to the election of clerks of courts.',
+  SecondMenuTitlesList[4][16]:
+      'Judges may be removed from office, by concurrent resolution of both houses of the general assembly, if two-thirds of the members, elected to each house, concur therein; but, no such removal shall be made, except upon complaint, the substance of which shall be entered on the journal, nor, until the party charged shall have had notice thereof, and an opportunity to be heard.',
+  SecondMenuTitlesList[4][17]:
+      'The several judges of the Supreme Court, of the common pleas, and of such other courts as may be created, shall, respectively, have and exercise such power and jurisdiction, at chambers, or otherwise, as may be directed by law.',
+  SecondMenuTitlesList[4][18]:
+      'The General Assembly may establish courts of conciliation, and prescribe their powers and duties; but such courts shall not render final judgment in any case, except upon submission, by the parties, of the matter in dispute, and their agreement to abide such judgment.',
+  SecondMenuTitlesList[4][19]:
+      'The style of all process shall be, "The State of Ohio;" all prosecutions shall be carried on, in the name, and by the authority, of the State of Ohio; and all indictments shall conclude, "against the peace and dignity of the State of Ohio."',
+  SecondMenuTitlesList[4][20]:
+      'A commission, which shall consist of five members, shall be appointed by the governor, with the advice and consent of the senate, the members of which shall hold office for the term of three years from and after the first day of February, 1876, to dispose of such part of the business then on the dockets of the supreme court, as shall, by arrangement between said commission and said court, be transferred to such commission; and said commission shall have like jurisdiction and power in respect to such business as are or may be vested in said court; and the members of said commission shall receive a like compensation for the time being, with the judges of said court. A majority of the members of said commission shall be necessary to form a quorum or pronounce a decision, and its decision shall be certified, entered, and enforced as the judgments of the supreme court, and at the expiration of the term of said commission, all business undisposed of shall by it be certified to the supreme court and disposed of as if said commission had never existed. The clerk and reporter of said court shall be the clerk and reporter of said commission, and the commission shall have such other attendants not exceeding in number those provided by law for said court, which attendants said commission may appoint and remove at its pleasure. Any vacancy occurring in said commission, shall be filled by appointment of the governor, with the advice and consent of the senate, if the senate be in session, and if the senate be not in session, by the governor, but in such last case, such appointment shall expire at the end of the next session of the general assembly. The general assembly may, on application of the supreme court duly entered on the journal of the court and certified, provide by law, whenever two-thirds of such [each] house shall concur therein, from time to time, for the appointment, in like manner, of a like commission with like powers, jurisdiction and duties; provided, that the term of any such commission shall not exceed two years, nor shall it be created oftener than once in ten years.',
+  SecondMenuTitlesList[4][21]:
+      'A commission, which shall consist of five members, shall be appointed by the governor, with the advice and consent of the senate, the members of which shall hold office for the term of three years from and after the first day of February, 1876, to dispose of such part of the business then on the dockets of the supreme court, as shall, by arrangement between said commission and said court, be transferred to such commission; and said commission shall have like jurisdiction and power in respect to such business as are or may be vested in said court; and the members of said commission shall receive a like compensation for the time being, with the judges of said court. A majority of the members of said commission shall be necessary to form a quorum or pronounce a decision, and its decision shall be certified, entered, and enforced as the judgments of the supreme court, and at the expiration of the term of said commission, all business undisposed of shall by it be certified to the supreme court and disposed of as if said commission had never existed. The clerk and reporter of said court shall be the clerk and reporter of said commission, and the commission shall have such other attendants not exceeding in number those provided by law for said court, which attendants said commission may appoint and remove at its pleasure. Any vacancy occurring in said commission, shall be filled by appointment of the governor, with the advice and consent of the senate, if the senate be in session, and if the senate be not in session, by the governor, but in such last case, such appointment shall expire at the end of the next session of the general assembly. The general assembly may, on application of the supreme court duly entered on the journal of the court and certified, provide by law, whenever two-thirds of such [each] house shall concur therein, from time to time, for the appointment, in like manner, of a like commission with like powers, jurisdiction and duties; provided, that the term of any such commission shall not exceed two years, nor shall it be created oftener than once in ten years.',
+  SecondMenuTitlesList[4][22]:
       'Laws may be passed to provide that in any county having less than forty thousand population, as determined by the next preceding federal census, the board of county commissioners of such county, by a unanimous vote or ten per cent of the number of electors of such county voting for governor at the next preceding election, by petition, may submit to the electors of such county the question of providing that in such county the same person shall serve as judge of the court of common pleas, judge of the probate court, judge of the juvenile court, judge of the municipal court, and judge of the county court, or of two or more of such courts. If a majority of the electors of such county vote in favor of such proposition, one person shall thereafter be elected to serve in such capacities, but this shall not affect the right of any judge then in office from continuing in office until the end of the term for which he was elected.\n\nElections may be had in the same manner to discontinue or change the practice of having one person serve in the capacity of judge of more than one court when once adopted.',
   SecondMenuTitlesList[5][0]:
       'Every citizen of the United States, of the age of eighteen years, who has been a resident of the state, county, township, or ward, such time as may be provided by law, and has been registered to vote for thirty days, has the qualifications of an elector, and is entitled to vote at all elections. Any elector who fails to vote in at least one election during any period of four consecutive years shall cease to be an elector unless he again registers to vote.',
-  SecondMenuTitlesList[5][1]:
-      '(A) There shall be a court of common pleas and such divisions thereof as may be established by law serving each county of the state. Any judge of a court of common pleas or a division thereof may temporarily hold court in any county. In the interests of the fair, impartial, speedy, and sure administration of justice, each county shall have one or more resident judges, or two or more counties may be combined into districts having one or more judges resident in the district and serving the common pleas courts of all counties in the district, as may be provided by law. Judges serving a district shall sit in each county in the district as the business of the court requires. In counties or districts having more than one judge of the court of common pleas, the judges shall select one of their number to act as presiding judge, to serve at their pleasure. If the judges are unable because of equal division of the vote to make such selection, the judge having the longest total service on the court of common pleas shall serve as presiding judge until selection is made by vote. The presiding judge shall have such duties and exercise such powers as are prescribed by rule of the Supreme Court.\n\n(B) The courts of common pleas and divisions thereof shall have such original jurisdiction over all justiciable matters and such powers of review of proceedings of administrative officers and agencies as may be provided by law.\n\n(C) Unless otherwise provided by law, there shall be a probate division and such other divisions of the courts of common pleas as may be provided by law. Judges shall be elected specifically to such probate division and to such other divisions. The judges of the probate division shall be empowered to employ and control the clerks, employees, deputies, and referees of such probate division of the common pleas courts.',
+  SecondMenuTitlesList[5][1]: 'All elections shall be by ballot.',
+  SecondMenuTitlesList[5][2]:
+      'The names of all candidates for an office at any election shall be arranged in a group under the title of that office. The general assembly shall provide by law the means by which ballots shall give each candidate\'s name reasonably equal position by rotation or other comparable methods to the extent practical and appropriate to the voting procedure used. At any election in which a candidate\'s party designation appears on the ballot, the name or designation of each candidate\'s party, if any, shall be printed under or after each candidate\'s name in less prominent type face than that in which the candidate\'s name is printed. An elector may vote for candidates (other than candidates for electors of President and Vice-President of the United States, and other than candidates for governor and lieutenant governor) only and in no other way than by indicating his vote for each candidate separately from the indication of his vote for any other candidate.',
+  SecondMenuTitlesList[5][3]:
+      'This section referred to the privilege from arrest of voters during elections.',
+  SecondMenuTitlesList[5][4]:
+      'The General Assembly shall have power to exclude from the privilege of voting, or of being eligible to office, any person convicted of a felony.',
+  SecondMenuTitlesList[5][5]:
+      'This section referred to those persons not considered residents of the state.',
+  SecondMenuTitlesList[5][6]:
+      'No idiot, or insane person, shall be entitled to the privileges of an elector.',
+  SecondMenuTitlesList[5][7]:
+      'All nominations for elective state, district, county and municipal offices shall be made at direct primary elections or by petition as provided by law, and provision shall be made by law for a preferential vote for United States senator; but direct primaries shall not be held for the nomination of township officers or for the officers of municipalities of less than two thousand population, unless petitioned for by a majority of the electors of such township or municipality. All delegates from this state to the national conventions of political parties shall be chosen by direct vote of the electors in a manner provided by law. Each candidate for such delegate shall state his first and second choices for the presidency, but the name of no candidate for the presidency shall be so used without his written authority.',
+  SecondMenuTitlesList[5][8]:
+      'No person shall hold the office of United States Senator from Ohio for a period longer than two successive terms of six years. No person shall hold the office of United States Representative from Ohio for a period longer than four successive terms of two years. Terms shall be considered successive unless separated by a period of four or more years. Only terms beginning on or after January 1, 1993 shall be considered in determining an individual\'s eligibility to hold office.',
+  SecondMenuTitlesList[5][9]:
+      'In determining the eligibility of an individual to hold an office in accordance with articles II, III, and V of this Constitution, (A) time spent in an office in fulfillment of a term to which another person was first elected shall not be considered provided that a period of at least four years passed between the time, if any, in which the individual previously held that office, and the time the individual is elected or appointed to fulfill the unexpired term; and (B) a person who is elected to an office in a regularly scheduled general election and resigns prior to the completion of the term for which he or she was elected, shall be considered to have served the full term in that office.',
   SecondMenuTitlesList[6][0]:
       'The principal of all funds, arising from the sale, or other disposition of lands, or other property, granted or entrusted to this State for educational and religious purposes, shall be used or disposed of in such manner as the General Assembly shall prescribe by law.',
   SecondMenuTitlesList[6][1]:
@@ -1690,12 +1794,75 @@ var Content = {
       'This section referred to General Assembly district boundaries that were in effect until January 1, 1973.',
   SecondMenuTitlesList[11][14]:
       'This section referred to the severability of Article XI.',
+  SecondMenuTitlesList[12][0]:
+      'No poll tax shall ever be levied in this state, or service required, which may be commuted in money or other thing of value.',
+  SecondMenuTitlesList[12][1]:
+      'No property, taxed according to value, shall be so taxed in excess of one per cent of its true value in money for all state and local purposes, but laws may be passed authorizing additional taxes to be levied outside of such limitation, either when approved by at least a majority of the electors of the taxing district voting on such proposition, or when provided for by the charter of a municipal corporation. Land and improvements thereon shall be taxed by uniform rule according to value, except that laws may be passed to reduce taxes by providing for a reduction in value of the homestead of permanently and totally disabled residents, residents sixty-five years of age and older, and residents sixty years of age or older who are surviving spouses of deceased residents who were sixty-five years of age or older or permanently and totally disabled and receiving a reduction in the value of their homestead at the time of death, provided the surviving spouse continues to reside in a qualifying homestead, and providing for income and other qualifications to obtain such reduction. Without limiting the general power, subject to the provisions of Article I of this constitution, to determine the subjects and methods of taxation or exemptions therefrom, general laws may be passed to exempt burying grounds, public school houses, houses used exclusively for public worship, institutions used exclusively for charitable purposes, and public property used exclusively for any public purpose, but all such laws shall be subject to alteration or repeal; and the value of all property so exempted shall, from time to time, be ascertained and published as may be directed by law.',
+  SecondMenuTitlesList[12][2]:
+      '''(A) Except as expressly authorized in this section, land and improvements thereon shall, in all other respects, be taxed as provided in section 36, Article II and Section 2 of this article.
+
+      (B) This section does not apply to any of the following:
+
+      (1) Taxes levied at whatever rate is required to produce a specified amount of tax money or an amount to pay debt charges;
+
+      (2) Taxes levied within the one per cent limitation imposed by section 2 of this article;
+
+      (3) Taxes provided for by the charter of a municipal corporation.
+
+      (C) Notwithstanding Section 2 of this article, laws may be passed that provide all of the following:
+
+      (1) Land and improvements thereon in each taxing district shall be placed into one of two classes solely for the purpose of separately reducing the taxes charged against all land andimprovements in each of the two classes as provided in division(C)(2) of this section. The classes shall be:
+
+      (a) Residential and agricultural land and improvements;
+
+      (b) All other land and improvements.
+
+      (2) With respect to each voted tax authorized to be levied by each taxing district, the amount of taxes imposed by such tax against all land and improvements thereon in each class shall be reduced in order that the amount charged for collection against all land and improvements in that class in the current year, exclusive of land and improvements not taxed by the district in both the preceding year and in the current year and those not taxed in that class in the preceding year, equals the amount charged for collection against such land and improvements in the preceding year.
+
+      (D) Laws may be passed to provide that the reductions made under this section in the amounts of taxes charged for the current expenses of cities, townships, school districts, counties, or other taxing districts are subject to the limitation that the sum of the amounts of all taxes charged for current expenses against the land and improvements thereon in each of the two classes of property subject to taxation in cities, townships, school districts, counties, or other types of taxing districts, shall not be less than a uniform per cent of the taxable value of the property in the districts to which the limitation applies. Different but uniform percentage limitations may be established for cities, townships, school districts, counties, and other types of taxing districts.
+      ''',
+  SecondMenuTitlesList[12][3]:
+      '''(A) The taxation of decedents' estates or of the right to receive or succeed to such estates, and the rates of such taxation may be uniform or may be graduated based on the value of the estate, inheritance, or succession. Such tax may also be levied at different rates upon collateral and direct inheritances, and a portion of each estate may be exempt from such taxation as provided by law.
+
+      (B) The taxation of incomes, and the rates of such taxation may be either uniform or graduated, and may be applied to such incomes and with such exemptions as may be provided by law.
+
+      (C) Excise and franchise taxes and for the imposition of taxes upon the production of coal, oil, gas, and other minerals; except that no excise tax shall be levied or collected upon the sale or purchase of food for human consumption off the premises wheresold.
+      ''',
+  SecondMenuTitlesList[12][4]:
+      'The General Assembly shall provide for raising revenue, sufficient to defray the expenses of the state, for each year, and also a sufficient sum to pay principal and interest as they become due on the state debt.',
+  SecondMenuTitlesList[12][5]:
+      'No tax shall be levied, except in pursuance of law; and every law imposing a tax shall state, distinctly, the object of the same, to which only, it shall be applied.',
+  SecondMenuTitlesList[12][6]:
+      'No moneys derived from fees, excises, or license taxes relating to registration, operation, or use of vehicles on public highways, or to fuels used for propelling such vehicles, shall be expended for other than costs of administering such laws, statutory refunds and adjustments provided therein, payment of highway obligations, costs for construction, reconstruction, maintenance and repair of public highways and bridges and other statutory highway purposes, expense of state enforcement of traffic laws, and expenditures authorized for hospitalization of indigent persons injured in motor vehicle accidents on the public highways.',
+  SecondMenuTitlesList[12][7]:
+      'Except as otherwise provided in this constitution the state shall never contract any debt for purposes of internal improvement.',
+  SecondMenuTitlesList[12][8]:
+      'For current analogous provision see, art. XII, § 3(A).',
+  SecondMenuTitlesList[12][9]: 'This section referred to taxation of incomes.',
+  SecondMenuTitlesList[12][10]:
+      'Not less than fifty per cent of the income, estate, and inheritance taxes that may be collected by the state shall be returned to the county, school district, city, village, or township in which said income, estate, or inheritance tax originates, or to any of the same, as may be provided by law.',
+  SecondMenuTitlesList[12][11]:
+      'For current analogous provision, see art. XII, § 3(A).',
+  SecondMenuTitlesList[12][12]:
+      'No bonded indebtedness of the state, or any political subdivisions thereof, shall be incurred or renewed unless, in the legislation under which such indebtedness is incurred or renewed, provision is made for levying and collecting annually by taxation an amount sufficient to pay the interest on said bonds, and to provide a sinking fund for their final redemption at maturity.',
+  SecondMenuTitlesList[12][13]:
+      'For current analogous provision, see art. XII, § 3(C).',
+  SecondMenuTitlesList[12][14]:
+      'No sales or other excise taxes shall be levied or collected (1) upon any wholesale sale or wholesale purchase of food for human consumption, its ingredients or its packaging; (2) upon any sale or purchase of such items sold to or purchased by a manufacturer, processor, packager, distributor or reseller of food for human consumption, or its ingredients, for use in its trade or business; or (3) in any retail transaction, on any packaging that contains food for human consumption on or off the premises where sold. For purposes of this section, food for human consumption shall include non-alcoholic beverages. This section shall not affect the extent to which the levy or collection of sales or other excise taxes on the retail sale or retail purchase of food for human consumption is permitted or prohibited by Section 3(C) of this Article.',
   SecondMenuTitlesList[13][0]:
       'The General Assembly shall pass no special act conferring corporate powers.',
   SecondMenuTitlesList[13][1]:
       'Corporations may be formed under general laws; but all such laws may, from time to time, be altered or repealed. Corporations may be classified and there may be conferred upon proper boards, commissions or officers, such supervisory and regulatory powers over their organization, business and issue and sale of stocks and securities, and over the business and sale of the stocks and securities of foreign corporations and joint stock companies in this state, as may be prescribed by law. Laws may be passed regulating the sale and conveyance of other personal property, whether owned by a corporation, joint stock company or individual.',
   SecondMenuTitlesList[13][2]:
       'Dues from private corporations shall be secured by such means as may be prescribed by law, but in no case shall any stockholder be individually liable otherwise than for the unpaid stock owned by him or her. No corporation not organized under the laws of this state, or of the United States, or person, partnership or association shall use the word "bank," "banker" or "banking," or words of similar meaning in any foreign language, as a designation or name under which business may be conducted in this state unless such corporation, person, partnership or association shall submit to inspection, examination and regulation as may hereafter be provided by the laws of this state.',
+  SecondMenuTitlesList[13][3]:
+      'The property of corporations, now existing or hereafter created, shall forever be subject to taxation, the same as the property of individuals.',
+  SecondMenuTitlesList[13][4]:
+      'No right of way shall be appropriated to the use of any corporation, until full compensation therefor be first made in money or first secured by a deposit of money, to the owner, irrespective of any benefit from any improvement proposed by such corporation; which compensation shall be ascertained by a jury of twelve men, in a court of record, as shall be prescribed by law.',
+  SecondMenuTitlesList[13][5]:
+      'The General Assembly shall provide for the organization of cities, and incorporated villages, by general laws, and restrict their power of taxation, assessment, borrowing money, contracting debts and loaning their credit, so as to prevent the abuse of such power.',
+  SecondMenuTitlesList[13][6]:
+      'No act of the General Assembly, authorizing associations with banking powers, shall take effect until it shall be submitted to the people, at the general election next succeeding the passage thereof, and be approved by a majority of all the electors, voting at such election.',
   SecondMenuTitlesList[14][0]:
       '''(A) There is hereby created the Ohio Livestock Care Standards Board for the purpose of establishing standards governing the care and well-being of livestock and poultry in this state. In carrying out its purpose, the Board shall endeavor to maintain food safety, encourage locally grown and raised food, and protect Ohio farms and families. The Board shall be comprised of the following thirteen members:
 
@@ -1733,20 +1900,34 @@ var Content = {
 
     (E) If any part of this section is held invalid, the remainder of this section shall not be affected by that holding and shall continue in full force and effect.
       ''',
+  SecondMenuTitlesList[14][1]:
+      'These sections provided for the appointment of three commissioners by the general assembly to revise the practice, pleadings, forms and proceedings of the courts of record of the state and to provide a uniform mode of proceeding.',
+  SecondMenuTitlesList[14][2]:
+      'These sections provided for the appointment of three commissioners by the general assembly to revise the practice, pleadings, forms and proceedings of the courts of record of the state and to provide a uniform mode of proceeding.',
   SecondMenuTitlesList[15][0]:
       'Columbus shall be the seat of government, until otherwise directed by law.',
   SecondMenuTitlesList[15][1]:
-      'An accurate and detailed statement of the receipts and expenditures of the public money, the several amounts paid, to whom, and on what account, shall, from time to time, be published, as shall be prescribed by law.',
+      'This section referred to the printing of laws, journals, bills, legislative documents and papers for each branch of the General Assembly.',
   SecondMenuTitlesList[15][2]:
-      'No person shall be elected or appointed to any office in this state unless possessed of the qualifications of an elector.',
+      'An accurate and detailed statement of the receipts and expenditures of the public money, the several amounts paid, to whom, and on what account, shall, from time to time, be published, as shall be prescribed by law.',
   SecondMenuTitlesList[15][3]:
+      'No person shall be elected or appointed to any office in this state unless possessed of the qualifications of an elector.',
+  SecondMenuTitlesList[15][4]:
+      'This section referred to the ineligibility of duelists to hold office.',
+  SecondMenuTitlesList[15][5]:
       '''Except as otherwise provided in this section, lotteries, and the sale of lottery tickets, for any purpose whatever, shall forever be prohibited in this State.\n\n(A) The General Assembly may authorize an agency of the state to conduct lotteries, to sell rights to participate therein, and to award prizes by chance to participants, provided that the entire net proceeds of any such lottery are paid into a fund of the state treasury that shall consist solely of such proceeds and shall be used solely for the support of elementary, secondary, vocational, and special education programs as determined in appropriations made by the General Assembly.\n\n(B) The General Assembly may authorize and regulate the operation of bingo to be conducted by charitable organizations for charitable purposes.\n\n(C)(1) Casino gaming shall be authorized at four casino facilities (a single casino at a designated location within each of the cities of Cincinnati, Cleveland, and Toledo, and within Franklin County) to create new funding for cities, counties, public school districts, law enforcement, the horse racing industry and job training for Ohio\'s workforce.\n\n(2) A thirty-three percent tax shall be levied and collected by the state on all gross casino revenue received by each casino operator of these four casino facilities. In addition, casino operators, their operations, their owners, and their property shall be subject to all customary non-discriminatory fees, taxes, and other charges that are applied to, levied against, or otherwise imposed generally upon other Ohio businesses, their gross or net revenues, their operations, their owners, and their property. Except as otherwise provided in section 6(C), no other casino gaming-related state or local fees, taxes, or other charges (however measured, calculated, or otherwise derived) may be, directly or indirectly, applied to, levied against, or otherwise imposed upon gross casino revenue, casino operators, their operations, their owners, or their property.\n\n(3) The proceeds of the tax on gross casino revenue collected by the state shall be distributed as follows:\n\n(a) Fifty-one percent of the tax on gross casino revenue shall be distributed among all eighty-eight counties in proportion to such counties' respective populations at the time of such distribution. If a county's most populated city, as of the 2000 United States census bureau census, had a population greater than 80,000, then fifty percent of that county\'s distribution will go to said city.\n(b) Thirty-four percent of the tax on gross casino revenue shall be distributed among all eighty-eight counties in proportion to such counties' respective public school district student populations at the time of such distribution. Each such distribution received by a county shall be distributed among all public school districts located (in whole or in part) within such county in proportion to each school district's respective student population who are residents of such county at the time of such distribution to the school districts. Each public school district shall determine how its distributions are appropriated, but all distributions shall only be used to support primary and secondary education.\n(c) Five percent of the tax on gross casino revenue shall be distributed to the host city where the casino facility that generated such gross casino revenue is located.\n(d) Three percent of the tax on gross casino revenue shall be distributed to fund the Ohio casino control commission.\n(e) Three percent of the tax on gross casino revenue shall be distributed to an Ohio state racing commission fund to support purses, breeding programs, and operations at all existing commercial horse racetracks permitted as of January 1, 2009. However, no funding under this division shall be distributed to operations of an Ohio commercial horse racetrack if an owner or operator of the racetrack holds a majority interest in an Ohio casino facility or in an Ohio casino license.\n(f) Two percent of the tax on gross casino revenue shall be distributed to a state law enforcement training fund to enhance public safety by providing additional training opportunities to the law enforcement community.\n(g) Two percent of the tax on gross casino revenue shall be distributed to a state problem gambling and addictions fund which shall be used for the treatment of problem gambling and substance abuse, and related research.\n\nTax collection, and distributions to public school districts and local governments, under sections 6(C)(2) and (3), are intended to supplement, not supplant, any funding obligations of the state. Accordingly, all such distributions shall be disregarded for purposes of determining whether funding obligations imposed by other sections of this Constitution are met.\n\n(4) There is hereby created the Ohio casino control commission which shall license and regulate casino operators, management companies retained by such casino operators, key employees of such casino operators and such management companies, gaming-related vendors, and all gaming authorized by section 6(C), to ensure the integrity of casino gaming.\n\nSaid commission shall determine all voting issues by majority vote and shall consist of seven members appointed by the governor with the advice and consent of the senate. Each member of the commission must be a resident of Ohio. At least one member of the commission must be experienced in law enforcement and criminal investigation. At least one member of the commission must be a certified public accountant experienced in accounting and auditing. At least one member of the commission must be an attorney admitted to the practice of law in Ohio. At least one member of the commission must be a resident of a county where one of the casino facilities is located. Not more than four members may be affiliated with the same political party. No commission member may have any affiliation with an Ohio casino operator or facility.\n\nSaid commission shall require each initial licensed casino operator of each of the four casino facilities to pay an upfront license fee of fifty million dollars (\$50,OOO,OOO) per casino facility for the benefit of the state, for a total of two hundred million dollars (\$200,OOO,OOO). The upfront license fee shall be used to fund state economic development programs which support regional job training efforts to equip Ohio\'s workforce with additional skills to grow the economy.\n\nTo carry out the tax provisions of section 6(C), and in addition to any other enforcement powers provided under Ohio law, the tax commissioner of the State and the Ohio casino control commission, or any person employed by the tax commissioner or said commission for that purpose, upon demand, may inspect books, accounts, records, and memoranda of any person subject to such provisions, and may examine under oath any officer, agent, or employee of that person.\n\n(5) Each initial licensed casino operator of each of the four casino facilities shall make an initial investment of at least two hundred fifty mi1lion dollars (\$250,000,000) for the development of each casino facility for a total minimum investment of one billion dollars (\$1,000,000,000) statewide. A casino operator: (a) may not hold a majority interest in more than two of the four licenses allocated to the casino facilities at any one time; and (b) may not hold a majority interest in more than two of the four casino facilities at any one time.\n\n(6) Casino gaming authorized in section 6(C) shall be conducted only by licensed casino operators of the four casino facilities or by licensed management companies retained by such casino operators. At the discretion of each licensed casino operator of a casino facility: (a) casino gaming may be conducted twenty-four hours each day; and (b) a maximum of five thousand slot machines may be operated at such casino facility.\n\n(7) Each of the four casino facilities shall be subject to all applicable state laws and local ordinances related to health and building codes, or any related requirements and provisions. Notwithstanding the foregoing, no local zoning, land use laws, subdivision regulations or similar provisions shall prohibit the development or operation of the four casino facilities set forth herein, provided that no casino facility shall be located in a district zoned exclusively residential as of January 1, 2009.\n\n(8) Notwithstanding any provision of the Constitution, statutes of Ohio, or a local charter and ordinance, only one casino facility shall be operated in each of the cities of Cleveland, Cincinnati, and Toledo, and in Franklin County.\n\n(9) For purposes of this section 6(C), the following definitions shall be applied:\n\n\"Casino facility\" means all or any part of any one or more of the following properties (together with all improvements situated thereon) in Cleveland, Cincinnati, Toledo, and Franklin County:\n\n(a) Cleveland:\n\nBeing an approximate 61 acre area in Cuyahoga County, Ohio, as identified by the Cuyahoga County Auditor, as of 02/27/09, as tax parcel numbers 004-28-001, 004-29-004A, 004-29-005, 004-29-008, 004-29-009, 004-29-010, 004-29-012, 004-29-013, 004-29-014, 004-29-020, 004-29-018, 004-29-017, 004-29-016, 004-29-021, 004-29-025, 004-29-027, 004-29-026, 004-28-008, 004-28-004, 004-28-003, 004-28-002, 004-28-010, 004-29-001, 004-29-007 and 004-04-017 and all lands and air rights lying within and/or above the public rights of way adjacent to such parcels.\n\nBeing an approximate 8.66 acre area in Cuyahoga County, Ohio, being that parcel identified by the Cuyahoga County Auditor, as of 02/27/09, as tax parcel number 101-21-002 and all lands and air rights lying within and/or above the public rights of way adjacent to such parcel.\n\nBeing an approximate 2.56 acre area in Cuyahoga County, Ohio, being that parcel identified by the Cuyahoga County Auditor, as of 02/27/09, as
    tax parcel number 101-21-OO2 and all lands and air rights lying within and/or above the public rights of way adjacent to such parcel.\n\nBeing an approximate 7.91 acre area in Cuyahoga County, Ohio, being that parcel identified by the Cuyahoga County Auditor, as of 02/27/09, as tax parcel number 101-23-050A and all lands and air rights lying within and/or above the public rights of way adjacent to such parcel.\n\nAll air rights above the parcel located in Cuyahoga County, Ohio identified by the Cuyahoga County Auditor, as of 02/27/09, as tax parcel number 101-22-003.\n\nBeing an approximate 1.55 acre area in Cuyahoga County, Ohio, as identified by the Cuyahoga County Auditor, as of 02/27/09, as tax parcel numbers 122-18-010, 122-18-0ll and 122-18-012 and all lands and air rights lying within and/or above the public rights of way adjacent to such parcels.\n\nBeing an approximate 1.83 acre area in Cuyahoga County, Ohio, as identified by the Cuyahoga County Auditor, as of 02/27/09, as tax parcel numbers 101-30-002 and 101-30-003 and all lands and air rights lying within and/or above the public rights of way adjacent to such parcels.\n\nConsisting of floors one through four, mezzanine, basement, sub-basement, Parcel No. 36-2, Item III, Parcels First and Second, Item V, Parcel A, and Item VI, Parcel One of the Higbee Building in Cuyahoga County, Ohio, as identified by the Cuyahoga County Auditor, as of 2/29/09, as tax parcel numbers 101-23-002 and 101-23-050F and all lands and air rights lying within and/or above the public rights of way adjacent to such parcels.\n\n(b) Franklin County:\n\nBeing an approximate 113.794 acre area in Franklin County, Ohio, as identified by the Franklin County Auditor, as of 01/19/10, as tax parcel number 140-003620-00.\n\n(c) Cincinnati;\n\nBeing an approximate 20.4 acre area in Hamilton County, Ohio, being identified by the Hamilton County Auditor, as of 02/27/09, as tax parcel numbers 074-0002-0009-00, 074-0001-0001-00, 074-0001-0002-00, 074-0001-0003-00, 074-0001-0004-00, 074-0001-0006-00, 074-0001-0008-00, 074-0001-0014-00, 074-0001-0016-00, 074-0001-0031-00, 074-0001-0039-00, 074-0001-0041-00, 074-0001-0042-00, 074-0001-0043-00, 074-0002-0001-00, 074-0004-0001-00, 074-0004-0002-00, 074-0004-0003-00 and 074-0005-0003-00.\n\n(d) Toledo:\n\nBeing an approximate 44.24 acre area in the City of Toledo, Lucas County, Ohio, as identified by the Lucas County Auditor, as of 03/05/09, as tax parcel numbers 18-76138 and 18-76515.\n\n\"Casino gaming\" means any type of slot machine or table game wagering, using money, casino credit, or any representative of value, authorized in any of the states of Indiana, Michigan, Pennsylvania and West Virginia as of January 1, 2009, and shall include slot machine and table game wagering subsequently authorized by, but shall not be limited by subsequent restrictions placed on such wagering in, such states. Notwithstanding the aforementioned definition, "casino gaming" does not include bingo, as authorized in article XV, section 6 of the Ohio Constitution and conducted as of January 1, 2009, or horse racing where the pari-mutuel system of wagering is conducted, as authorized under the laws of Ohio as of January 1, 2009.\n\n"Casino operator" means any person, trust, corporation, partnership, limited partnership, association, limited liability company or other business enterprise that directly holds an ownership or leasehold interest in a casino facility. "Casino operator" does not include an agency of the state, any political subdivision of the state, or any person, trust, corporation, partnership, limited partnership, association, limited liability company or other business enterprise that may have an interest in a casino facility, but who is legally or contractually restricted from conducting casino gaming.\n\n"Gross casino revenue" means the total amount of money exchanged for the purchase of chips, tokens, tickets, electronic cards, or similar objects by casino patrons, less winnings paid to wagerers.\n\n\"Majority interest\" in a license or in a casino facility (as the case may be) means beneficial ownership of more than fifty percent (50%) of the total fair market value of such license or casino facility (as the case may be). For purposes of the foregoing, whether a majority interest is held in a license or in a casino facility (as the case may be) shall be determined in accordance with the rules for constructive ownership of stock provided in Treas. Reg. § 1.409A-3(i)(5)(iii) as in effect on January 1, 2009.\n\n\"Slot machines\" shall include any mechanical, electrical, or other device or machine which, upon insertion of a coin, token, ticket, or similar object, or upon payment of any consideration, is available to play or operate, the play or operation of which, whether by reason of the skill of the operator or application of the element of chance, or both, makes individual prize determinations for individual participants in cash, premiums, merchandise, tokens, or any thing of value, whether the payoff is made automatically from the machine or in any other manner.\n\n\"Table game\" means any game played with cards, dice, or any mechanical, electromechanical, or electronic device or machine for money, casino credit, or any representative of value.\n\n(10) The General Assembly shall pass laws within six months of the effective date of section 6(C) to facilitate the operation of section 6(C).\n\n(11) Each provision of section 6(C) is intended to be independent and severable, and if any provision of section 6(C) is held to be invalid, either on its face or as applied to any person or circumstance, the remaining provisions of section 6(C), and the application thereof to any person or circumstance other than those to which it is held invalid, shall not be affected thereby. In any case of a conflict between any provision of section 6(C) and any other provision contained in this Constitution, the provisions of section 6(C) shall control.\n\n(12) Notwithstanding the provisions of section 6(C)(11), nothing in this section 6(C) (including, without limitation, the provisions of sections 6(C)(6) and 6(C)(8)) shall restrict or in any way limit lotteries authorized under section 6(A) of this article or bingo authorized under section 6(B) of this article. The provisions of this section 6(C) shall have no effect upon activities authorized under sections 6(A) and/or (6)(B) of this article.''',
-  SecondMenuTitlesList[15][4]:
-      'Every person chosen or appointed to any office under this state, before entering upon the discharge of its duties, shall take an oath or affirmation, to support the Constitution of the United States, and of this state, and also an oath of office.',
-  SecondMenuTitlesList[15][5]:
-      'Appointments and promotions in the civil service of the state, the several counties, and cities, shall be made according to merit and fitness, to be ascertained, as far as practicable, by competitive examinations. Laws shall be passed providing for the enforcement of this provision.',
   SecondMenuTitlesList[15][6]:
+      'Every person chosen or appointed to any office under this state, before entering upon the discharge of its duties, shall take an oath or affirmation, to support the Constitution of the United States, and of this state, and also an oath of office.',
+  SecondMenuTitlesList[15][7]:
+      'This section referred to the establishment of a bureau of statistics in secretary of state\'s office.',
+  SecondMenuTitlesList[15][8]:
+      'This section referred to the sale and manufacturing of intoxicating liquors.',
+  SecondMenuTitlesList[15][9]:
+      'This section referred to the passing of laws prohibiting the sale of intoxicating liquors.',
+  SecondMenuTitlesList[15][10]:
+      'Appointments and promotions in the civil service of the state, the several counties, and cities, shall be made according to merit and fitness, to be ascertained, as far as practicable, by competitive examinations. Laws shall be passed providing for the enforcement of this provision.',
+  SecondMenuTitlesList[15][11]:
       'Only a union between one man and one woman may be a marriage valid in or recognized by this state and its political subdivisions. This state and its political subdivisions shall not create or recognize a legal status for relationships of unmarried individuals that intends to approximate the design, qualities, significance or effect of marriage.',
   SecondMenuTitlesList[16][0]:
       'Either branch of the General Assembly may propose amendments to this constitution; and, if the same shall be agreed to by three-fifths of the members elected to each house, such proposed amendments shall be entered on the journals, with the yeas and nays, and shall be filed with the secretary of state at least ninety days before the date of the election at which they are to be submitted to the electors, for their approval or rejection. They shall be submitted on a separate ballot without party designation of any kind, at either a special or a general election as the General Assembly may prescribe.\n\nThe ballot language for such proposed amendments shall be prescribed by a majority of the Ohio ballot board, consisting of the secretary of state and four other members, who shall be designated in a manner prescribed by law and not more than two of whom shall be members of the same political party. The ballot language shall properly identify the substance of the proposal to be voted upon. The ballot need not contain the full text nor a condensed text of the proposal. The board shall also prepare an explanation of the proposal, which may include its purpose and effects, and shall certify the ballot language and the explanation to the secretary of state not later than seventy-five days before the election. The ballot language and the explanation shall be available for public inspection in the office of the secretary of state.\n\nThe Supreme Court shall have exclusive, original jurisdiction in all cases challenging the adoption or submission of a proposed constitutional amendment to the electors. No such case challenging the ballot language, the explanation, or the actions or procedures of the General Assembly in adopting and submitting a constitutional amendment shall be filed later than sixty-four days before the election. The ballot language shall not be held invalid unless it is such as to mislead, deceive, or defraud the voters.\n\nUnless the General Assembly otherwise provides by law for the preparation of arguments for and, if any, against a proposed amendment, the board may prepare such arguments.\n\nSuch proposed amendments, the ballot language, the explanations, and the arguments, if any, shall be published once a week for three consecutive weeks preceding such election, in at least one newspaper of general circulation in each county of the state, where a newspaper is published. The General Asembly shall provide by law for other dissemination of information in order to inform the electors concerning proposed amendments. An election on a proposed constitutional amendment submitted by the general assembly shall not be enjoined nor invalidated because the explanation, arguments, or other information is faulty in any way. If the majority of the electors voting on the same shall adopt such amendments the same shall become a part of the constitution. When more than one amendment shall be submitted at the same time, they shall be so submitted as to enable the electors to vote on each amendment, separately.',
@@ -1758,6 +1939,7 @@ var Content = {
       'Elections for state and county officers shall be held on the first Tuesday after the first Monday in November in even numbered years; and all elections for all other elective officers shall be held on the first Tuesday after the first Monday in November in the odd numbered years.\n\nThe term of office of all elective county, township, municipal, and school officers shall be such even number of years not exceeding four as may be prescribed by law or such even number of years as may be provided in municipal or county charters.\n\nThe term of office of all judges shall be as provided in Article IV of this constitution or, if not so provided, an even number of years not exceeding six as provided by law.\n\nThe General Assembly may extend existing terms of office as to effect the purpose of this section.',
   SecondMenuTitlesList[17][1]:
       'Any vacancy which may occur in any elective state office created by Article II or III or created by or pursuant to Article IV of this constitution shall be filled only if and as provided in such articles. Any vacancy which may occur in any elective state office not so created, shall be filled by appointment by the Governor until the disability is removed, or a successor elected and qualified. Such successor shall be elected for the unexpired term of the vacant office at the first general election in an even numbered year that occurs more than forty days after the vacancy has occurred; provided, that when the unexpired term ends within one year immediately following the date of such general election, an election to fill such unexpired term shall not be held and the appointment shall be for such unexpired term. All vacancies in other elective offices shall be filled for the unexpired term in such manner as may be prescribed by this constitution or by law.',
+  SecondMenuTitlesList[17][2]: 'This section referred to present incumbents.',
   SecondMenuTitlesList[18][0]:
       'Municipal corporations are hereby classified into cities and villages. All such corporations having a population of five thousand or over shall be cities; all others shall be villages. The method of transition from one class to the other shall be regulated by law.',
   SecondMenuTitlesList[18][1]:
@@ -1891,47 +2073,47 @@ var Content = {
 
       A congressional district plan adopted under this division shall remedy any legal defects in the previous plan identified by the court but shall include no other changes to the previous plan other than those made in order to remedy those defects.
       ''',
-  SecondMenuTitlesList[20][0] :
+  SecondMenuTitlesList[20][0]:
       'All laws of this state, in force on the first day of September one thousand eight hundred and fifty-one, not inconsistent with this constitution, shall continue in force, until amended, or repealed.',
-  SecondMenuTitlesList[20][1] : 
+  SecondMenuTitlesList[20][1]:
       'The first election for members of the General Assembly, under this constitution, shall be held on the second Tuesday of October, one thousand eight hundred and fifty-one.',
-  SecondMenuTitlesList[20][2] : 
+  SecondMenuTitlesList[20][2]:
       'The first election for governor, lieutenant governor, auditor, treasurer, and secretary of state and attorney general, shall be held on the second Tuesday of October, one thousand eight hundred and fifty-one. The persons, holding said offices on the first day of September, one thousand eight hundred and fifty-one, shall continue therein, until the second Monday of January, one thousand eight hundred and fifty-two.',
-  SecondMenuTitlesList[20][3] : 
+  SecondMenuTitlesList[20][3]:
       'The first election for judges of the Supreme Court, courts of common pleas, and probate courts, and clerks of the courts of common pleas, shall be held on the second Tuesday of October, one thousand eight hundred and fifty-one, and the official term of said judges and clerks, so elected, shall commence on the second Monday of February, one thousand eight hundred and fifty-two. Judges and clerks of the courts of common pleas and Supreme Court, in office on the first day of September, one thousand eight hundred and fifty-one, shall continue in office with their present powers and duties, until the second Monday of February, one thousand eight hundred and fifty-two. No suit or proceeding, pending in any of the courts of this state, shall be affected by the adoption of this constitution.',
-  SecondMenuTitlesList[20][4] : 
+  SecondMenuTitlesList[20][4]:
       'The register and receiver of the land office, directors of the penitentiary, directors of the benevolent institutions of the state, the state librarian, and all other officers, not otherwise provided for in this constitution in office on the first day of September, one thousand eight hundred and fifty-one, shall continue in office, until their terms expire, respectively, unless the general assembly shall otherwise provide.',
-  SecondMenuTitlesList[20][5] :
+  SecondMenuTitlesList[20][5]:
       'The superior and commercial courts of Cincinnati, and the superior court of Cleveland, shall remain, until otherwise provided by law, with their present powers and jurisdiction; and the judges and clerks of said courts, in office on the first day of September, one thousand eight hundred and fifty-one, shall continue in office, until the expiration of their terms of office, respectively, or, until otherwise provided by law; but neither of said courts shall continue after the second Monday of February, one thousand eight hundred and fifty-three; and no suits shall be commenced in said two first mentioned courts, after the second Monday of February, one thousand eight hundred and fifty-two, nor in said last mentioned court, after the second Monday in August, one thousand eight hundred and fifty-two; and all business in either of said courts, not disposed of within the time limited for their continuance as aforesaid, shall be transferred to the court of common pleas.',
-  SecondMenuTitlesList[20][6] : 
+  SecondMenuTitlesList[20][6]:
       'All county and township officers and justices of the peace, in office on the first day of September, one thousand eight hundred and fifty-one, shall continue in office until their terms expire, respectively.',
-  SecondMenuTitlesList[20][7] :
+  SecondMenuTitlesList[20][7]:
       'Vacancies in office, occurring after the first day of September, one thousand eight hundred and fifty-one, shall be filled, as is now prescribed by law, and until officers are elected or appointed, and qualified, under this constitution.',
-  SecondMenuTitlesList[20][8] :
+  SecondMenuTitlesList[20][8]:
       'This constitution shall take effect, on the first day of September, one thousand eight hundred and fifty-one.',
-  SecondMenuTitlesList[20][9] :
+  SecondMenuTitlesList[20][9]:
       'All officers shall continue in office, until their successors shall be chosen and qualified.',
-  SecondMenuTitlesList[20][10] :
+  SecondMenuTitlesList[20][10]:
       'Suits pending in the Supreme Court in bank, shall be transferred to the Supreme Court provided for in this constitution, and be proceeded in according to law.',
-  SecondMenuTitlesList[20][11] : 
+  SecondMenuTitlesList[20][11]:
       'The district courts shall, in their respective counties, be the successors of the present Supreme Court; and all suits, prosecutions, judgments, records, and proceedings, pending and remaining in said Supreme Court, in the several counties of any district, shall be transferred to the respective district courts of such counties, and be proceeded in, as though no change had been made in said Supreme Court.',
-  SecondMenuTitlesList[20][12] :
+  SecondMenuTitlesList[20][12]:
       'The said courts of common pleas, shall be the successors of the present courts of common pleas in the several counties, except as to probate jurisdiction; and all suits, prosecutions, proceedings, records and judgments, pending or being in said last mentioned courts, except as aforesaid, shall be transferred to the courts of common pleas created by this constitution, and proceeded in, as though the same had been therein instituted.',
-  SecondMenuTitlesList[20][13] :
+  SecondMenuTitlesList[20][13]:
       'The probate courts provided for in this constitution, as to all matters within the jurisdiction conferred upon said courts, shall be the successors, in the several counties, of the present courts of common pleas; and the records, files, and papers, business and proceedings, appertaining to said jurisdiction, shall be transferred to said courts of probate, and be there proceeded in, according to law.',
-  SecondMenuTitlesList[20][14] :
+  SecondMenuTitlesList[20][14]:
       'Until otherwise provided by law, elections for judges and clerks shall be held, and the poll books returned, as is provided for governor, and the abstract therefrom, certified to the secretary of state, shall be by him opened, in the presence of the governor, who shall declare the result, and issue commissions to the persons elected.',
-  SecondMenuTitlesList[20][15] : 
+  SecondMenuTitlesList[20][15]:
       'Where two or more counties are joined in a senatorial, representative, or judicial district, the returns of elections shall be sent to the county, having the largest population.',
-  SecondMenuTitlesList[20][16] :
+  SecondMenuTitlesList[20][16]:
       '''The foregoing constitution shall be submitted to the electors of the state, at an election to be held on the third Tuesday of June, one thousand eight hundred and fifty-one, in the several election districts of this state. The ballots at such election shall be written or printed as follows: Those in favor of the constitution, "New Constitution, Yes;" those against the constitution, "New Constitution, No." The polls at said election shall be opened between the hours of eight and ten o'clock A.M., and closed at six o'clock P.M.; and the said election shall be conducted, and the returns thereof made and certified, to the secretary of state, as provided by law for annual elections of state and county officers. Within twenty days after such election, the secretary of state shall open the returns thereof, in the presence of the governor; and, if it shall appear that a majority of all the votes, cast at such election, are in favor of the constitution, the governor shall issue his proclamation, stating that fact, and said constitution shall be the constitution of the state of Ohio, and not otherwise.
 
       The result of this election, excluding the returns of two counties, Defiance and Auglaize, which were not received in the twenty days specified, was as follows: "New Constitution, Yes"..................................... 125,564 "New Constitution, No" ..................................... 109,276 Majority for New Constitution ............................... 16,288''',
-  SecondMenuTitlesList[20][17] : 
+  SecondMenuTitlesList[20][17]:
       '''At the time when the votes of the electors shall be taken for the adoption or rejection of this constitution, the additional section, in the words following, to wit: "No license to traffic in intoxicating liquors shall hereafter be granted in this state; but the general assembly may, by law, provide against evils resulting therefrom," shall be separately submitted to the electors for adoption or rejection, in form following, to wit: A separate ballot may be given by every elector and deposited in a separate box. Upon the ballots given for said separate amendment shall be written or printed, or partly written and partly printed, the words: "License to sell intoxicating liquors, Yes;" and upon the ballots given against said amendment, in like manner, the words: "License to sell intoxicating liquors, No." If, at the said election, a majority of all the votes given for and against said amendment, shall contain the words: "License to sell intoxicating liquors, No," then the said amendment shall be a separate section of article fifteen of the constitution.
 
       This election resulted: "License to sell intoxicating liquors, No"......................................................... 113,237 "License to sell intoxicating liquors, Yes"........................................................ 104,255 Majority against License .................................... 8,982''',
-  SecondMenuTitlesList[20][18] : 
+  SecondMenuTitlesList[20][18]:
       '''The apportionment of the House of Representatives, during the first decennial period under this constitution, shall be as follows:
 
       The counties of Adams, Allen, Athens, Auglaize, Carroll, Champaign, Clark, Clinton, Crawford, Darke, Delaware, Erie, Fayette, Gallia, Geauga, Greene, Hancock, Harrison, Hocking, Holmes, Lake, Lawrence, Logan, Madison, Marion, Meigs, Morrow, Perry, Pickaway, Pike, Preble, Sandusky, Scioto, Shelby and Union, shall, severally, be entitled to one representative, in each session of the decennial period.
@@ -1953,9 +2135,9 @@ var Content = {
       The following counties, until they shall have acquired a sufficient population to entitle them to elect, separately, under the fourth section of the eleventh article, shall form districts in manner following, to wit: The counties of Jackson and Vinton, one district; the counties of Lucas and Fulton, one district; the counties of Wyandot and Hardin, one district; the counties of Mercer and Van Wert, one district; the counties of Paulding, Defiance, and Williams, one district; the counties of Putnam and Henry, one district; and the counties of Wood and Ottawa, one district; each of which districts shall be entitled to one representative, in every session of the decennial period.
 
       Done in convention, at Cincinnati, the tenth day of March, in the year of our Lord, one thousand eight hundred and fifty-one, and of the independence of the United States, the seventy-fifth.WILLIAM MEDILL, President.Attest: Wm. H. Gill, Secretary.S. J. Andrews, G. Volney Dorsey,Edward Archbold, Thos. W. Ewart,William Barbee,John Ewing,Joseph Barnett,Joseph M. Farr,David Barnet, Elias Florence,Wm. S. Bates, Robert Forbes,A. I. Bennett, H. C. Gray,John H. Blair, H. N. Gillett,Jacob Blickensderfer, John Graham,Van Brown, John L. Green,A. G. Brown, Jacob J. Greene,R. W. Cahill, Henry H. Gregg,F. Case, W. S. Groesbeck,L. Case, C. S. Hamilton,David Chambers, D. D. T. Hard,John Chany, A. Harlan,H. D. Clark, William Hawkins,George Collings, James P. Henderson,Friend Cook, Peter Hitchcock,Otway Curry, G. W. Holmes,Geo. B. Holt, R. P. Ranney,John J. Hootman, Chas. Reemelin,V. B. Horton, Adam N. Riddle,Samuel Humphreville,Edward C. Roll,John E. Hunt,Wm. Sawyer,B. B. Hunter,Sabirt Scott,Reuben Hitchcock,John Sellers,John Johnson, B. P. Smith,J. Dan Jones,George J. Smith,James B. King, John A. Smith,S. J. Kirkwood,Henry Stanbery,Thos. J. Larsh, B. Stanton,William Lawrence, Albert V. Stebbins,John Larwill, E. T. Stickney,Robert Leech, Richd. Stillwell,D. P. Leadbetter, Harman Stilger,John Lidey, James Struble,James Loudon, J. R. Swan,J. McCormick, L. Swift,H. S. Manon, James W. Taylor,Samson Mason, Norton S. Townshend,Matthew H. Mitchell,Hugh Thompson,Isaiah Morris, Joseph Thompson,Charles McCloud, Joseph Vance,Simeon Nash, Elijah Vance,S. F. Norris, Wm. M. Warren,Chas. J. Orton, Thomas A. Way,W. S. C. Otis, J. Milton Williams,Thomas Patterson, Elzey Wilson,Danl. Peck, Jas. T. Worthington,Jacob Perkins, E. B. Woodbury.Saml. Quigley,''',
-  SecondMenuTitlesList[21][0] : 
+  SecondMenuTitlesList[21][0]:
       'The several amendments passed and submitted by this convention when adopted at the election shall take effect on the first day of January, 1913, except as otherwise specifically provided by the schedule attached to any of said amendments. All laws then in force, not inconsistent therewith shall continue in force until amended or repealed; provided that all cases pending in the courts on the first day of January, 1913, shall be heard and tried in the same manner and by the same procedure as is now authorized by law. Any provision of the amendments passed and submitted by this convention and adopted by the electors, inconsistent with, or in conflict with, any provision of the present constitution, shall be held to prevail.',
-  SecondMenuTitlesList[21][1] : 
+  SecondMenuTitlesList[21][1]:
       'The several proposals duly passed by this convention shall be submitted to the electors as separate amendments to the constitution at a special election to be held on the third day of September, 1912. The several amendments shall be designated on the ballot by their proper article and section numbers and also by their approved descriptive titles and shall be printed on said ballot and consecutively numbered in the manner and form hereinafter set forth. The adoption of any amendment by its title shall have the effect of adopting the amendment in full as finally passed by the convention. Said special election shall be held pursuant to all provisions of law applicable thereto including special registration. Ballots shall be marked in accordance with instructions printed thereon. Challengers and witnesses shall be admitted to all polling places under such regulations as may be prescribed by the secretary of state. Within ten days after said election the boards of deputy state supervisors of elections of the several counties shall forward by mail in duplicate sealed certified abstracts of the votes cast on the several amendments, one to the secretary of state and one to the auditor of state at Columbus. Within five days thereafter such abstracts shall be opened and canvassed by the secretary of state and auditor of state in the presence of the governor who shall forthwith, by proclamation, declare the results of said election. Each amendment on which the number of affirmative votes shall exceed the number of negative votes shall become a part of the constitution.HERBERT S. BIGELOW, President.C. B. GALBREATH, SecretaryColumbus, Ohio, June 1, 1912.David F. Anderson,A. V. Donahey,Ernest I. Antrim,Edward W. Doty,John L. Baum,Charles O. Dunlap,Robert A. Beatty,Alexander Dunn,A. Beyer, Dennis Dwyer,Stanley E. Bowdle, Henry E. Eby,Wesley B. Brattain, J. Milton Earnhart,H. M. Brown, Henry W. Elson,Walter F. Brown, John D. Fackler,M. A. Brown, W. W. Farnsworth,William W. Campbell,Thomas S. Farrell,John R. Cassidy, S. D. Fess,M. T. Cody, Thos. G. FitzSimons,Bernard Y. Collett, James M. Fluke,Geo. H. Colton, Henry C. Fox,Henry F. Cordes, Aaron Hahn,Henry M. Crites, Wm. P. Halenkamp,Robert Crosser, James W. Halfhill,David Cunningham, James W. Harbarger,William C. Davio, Wm. S. Harris,Joe DeFrees, Geo. W. Harris,Otto M. Harter, W. E. Partington,Isaac Harter, Hiram D. Peck,Robert Henderson, Edward A. Peters,John C. Hoffman, Geo. W. Pettit,Charles D. Holtz, David Pierce,Samuel A. Hoskins, T. D. Price,Frank G. Hursh, A. Ross Read,Edward W. Johnson, Horace G. Redington,Solomon Johnson, Jno. H. Riley,Humphrey Jones, Wm. M. Rockel,J. W. Kehoe, John Roehm,Henry C. Keller, John C. Rorick,Frank H. Kerr, Stanley Shaffer,Wm. B. Kilpatrick, Eli D. Shaw,E. B. King, H. K. Smith,G. W. Knight, Starbuck Smith,John F. Kramer, J. C. Solether,Lawrence P. Kunkle, Franklin J. Stalter,Frank P. Lambert, M. Stamm,E. L. Lampson, W. B. Stevens,Fred G. Leete, O. H. Stewart,Daniel E. Leslie, Stephen S. Stillwell,Robert B. Longstreth, William Worth Stokes,Chris Ludey, Frank Taggart,Fletcher D. Malin, James C. Tallman,Frank M. Marriott, J. W. Tannehill,Allen M. Marshall, Percey Tetlow,N.E. Matthews, Harry D. Thomas,Roscoe J. Mauck, John Ulmer,R. G. McClelland, Edwin T. Wagner,Geo. W. Miller, Wilmer R. Walker,Frank P. Miller, Harvey Watson,Wm. Miller, Benj. F. Weybrecht,Illion E. Moore, John W. Winn,Caleb H. Norris, Frank C. Wise,David J. Nye, F. W. Woods,J. A. Okey, Wm. Worthington.',
 };
 
