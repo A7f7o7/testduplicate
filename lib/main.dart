@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Ohio Constitution',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: MyHomePage(),
     );
@@ -28,7 +28,9 @@ class MyHomePage extends StatelessWidget {
           title: Text(
             'Ohio Constitution App',
           ),
-          
+          leading: Container(
+            child: Image.asset('assets/images/trademark.PNG')
+          )
           ),
           body: _buildListView(context),
         );
@@ -37,7 +39,7 @@ class MyHomePage extends StatelessWidget {
   
   ListView _buildListView(BuildContext context){
     return ListView.builder(
-      itemCount: 22,
+      itemCount: 23,
       itemBuilder: (context, index){
         return ListTile(
           title: Text(FirstMenuTitles[index],),

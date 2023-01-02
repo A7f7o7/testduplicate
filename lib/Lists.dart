@@ -20,7 +20,8 @@ var FirstMenuTitles = [
   'Article XVIII',
   'Article XIX',
   'Schedule 1851 Constitution',
-  'Schedule 1912 Constitution'
+  'Schedule 1912 Constitution',
+  'OSBA Acknowledgment'
 ];
 
 var PreambleSections = ['Preamble'];
@@ -48,6 +49,7 @@ var FirstMenuSubtitles = [
   'Elections',
   'Municipal Corporations',
   'Congressional Redistricting',
+  '',
   '',
   ''
 ];
@@ -709,6 +711,10 @@ var Schedule1912Sections = [
 
 var Schedule1912Subtitles = ['', ''];
 
+var OSBAAcknowledgementSection = ['OSBA Acknowledgement'];
+
+var OSBAAcknowledgementSubtitles = [''];
+
 var SecondMenuTitlesList = [
   PreambleSections,
   Article1Sections,
@@ -731,7 +737,8 @@ var SecondMenuTitlesList = [
   Article18Sections,
   Article19Sections,
   Schedule1851Sections,
-  Schedule1912Sections
+  Schedule1912Sections,
+  OSBAAcknowledgementSection
 ];
 
 var SecondMenuSubtitlesList = [
@@ -756,7 +763,8 @@ var SecondMenuSubtitlesList = [
   Article18Subtitles,
   Article19Subtitles,
   Schedule1851Subtitles,
-  Schedule1912Subtitles
+  Schedule1912Subtitles,
+  OSBAAcknowledgementSubtitles
 ];
 
 var LengthList = [
@@ -781,7 +789,8 @@ var LengthList = [
   Article18Sections.length,
   Article19Sections.length,
   Schedule1851Sections.length,
-  Schedule1912Sections.length
+  Schedule1912Sections.length,
+  OSBAAcknowledgementSection.length
 ];
 
 var ArticleHeaders = [
@@ -806,7 +815,8 @@ var ArticleHeaders = [
   'Article XVIII Sections',
   'Article XIX Sections',
   'Schedule 1851 Sections',
-  'Schedule 1912 Sections'
+  'Schedule 1912 Sections',
+  'OSBA Acknowledgment'
 ];
 
 var Content = {
@@ -2139,6 +2149,8 @@ var Content = {
       'The several amendments passed and submitted by this convention when adopted at the election shall take effect on the first day of January, 1913, except as otherwise specifically provided by the schedule attached to any of said amendments. All laws then in force, not inconsistent therewith shall continue in force until amended or repealed; provided that all cases pending in the courts on the first day of January, 1913, shall be heard and tried in the same manner and by the same procedure as is now authorized by law. Any provision of the amendments passed and submitted by this convention and adopted by the electors, inconsistent with, or in conflict with, any provision of the present constitution, shall be held to prevail.',
   SecondMenuTitlesList[21][1]:
       'The several proposals duly passed by this convention shall be submitted to the electors as separate amendments to the constitution at a special election to be held on the third day of September, 1912. The several amendments shall be designated on the ballot by their proper article and section numbers and also by their approved descriptive titles and shall be printed on said ballot and consecutively numbered in the manner and form hereinafter set forth. The adoption of any amendment by its title shall have the effect of adopting the amendment in full as finally passed by the convention. Said special election shall be held pursuant to all provisions of law applicable thereto including special registration. Ballots shall be marked in accordance with instructions printed thereon. Challengers and witnesses shall be admitted to all polling places under such regulations as may be prescribed by the secretary of state. Within ten days after said election the boards of deputy state supervisors of elections of the several counties shall forward by mail in duplicate sealed certified abstracts of the votes cast on the several amendments, one to the secretary of state and one to the auditor of state at Columbus. Within five days thereafter such abstracts shall be opened and canvassed by the secretary of state and auditor of state in the presence of the governor who shall forthwith, by proclamation, declare the results of said election. Each amendment on which the number of affirmative votes shall exceed the number of negative votes shall become a part of the constitution.HERBERT S. BIGELOW, President.C. B. GALBREATH, SecretaryColumbus, Ohio, June 1, 1912.David F. Anderson,A. V. Donahey,Ernest I. Antrim,Edward W. Doty,John L. Baum,Charles O. Dunlap,Robert A. Beatty,Alexander Dunn,A. Beyer, Dennis Dwyer,Stanley E. Bowdle, Henry E. Eby,Wesley B. Brattain, J. Milton Earnhart,H. M. Brown, Henry W. Elson,Walter F. Brown, John D. Fackler,M. A. Brown, W. W. Farnsworth,William W. Campbell,Thomas S. Farrell,John R. Cassidy, S. D. Fess,M. T. Cody, Thos. G. FitzSimons,Bernard Y. Collett, James M. Fluke,Geo. H. Colton, Henry C. Fox,Henry F. Cordes, Aaron Hahn,Henry M. Crites, Wm. P. Halenkamp,Robert Crosser, James W. Halfhill,David Cunningham, James W. Harbarger,William C. Davio, Wm. S. Harris,Joe DeFrees, Geo. W. Harris,Otto M. Harter, W. E. Partington,Isaac Harter, Hiram D. Peck,Robert Henderson, Edward A. Peters,John C. Hoffman, Geo. W. Pettit,Charles D. Holtz, David Pierce,Samuel A. Hoskins, T. D. Price,Frank G. Hursh, A. Ross Read,Edward W. Johnson, Horace G. Redington,Solomon Johnson, Jno. H. Riley,Humphrey Jones, Wm. M. Rockel,J. W. Kehoe, John Roehm,Henry C. Keller, John C. Rorick,Frank H. Kerr, Stanley Shaffer,Wm. B. Kilpatrick, Eli D. Shaw,E. B. King, H. K. Smith,G. W. Knight, Starbuck Smith,John F. Kramer, J. C. Solether,Lawrence P. Kunkle, Franklin J. Stalter,Frank P. Lambert, M. Stamm,E. L. Lampson, W. B. Stevens,Fred G. Leete, O. H. Stewart,Daniel E. Leslie, Stephen S. Stillwell,Robert B. Longstreth, William Worth Stokes,Chris Ludey, Frank Taggart,Fletcher D. Malin, James C. Tallman,Frank M. Marriott, J. W. Tannehill,Allen M. Marshall, Percey Tetlow,N.E. Matthews, Harry D. Thomas,Roscoe J. Mauck, John Ulmer,R. G. McClelland, Edwin T. Wagner,Geo. W. Miller, Wilmer R. Walker,Frank P. Miller, Harvey Watson,Wm. Miller, Benj. F. Weybrecht,Illion E. Moore, John W. Winn,Caleb H. Norris, Frank C. Wise,David J. Nye, F. W. Woods,J. A. Okey, Wm. Worthington.',
+  SecondMenuTitlesList[22][0]:
+       'Special thanks to the Ohio State Bar Association and its Moyer Legacy Committee for supporting and funding the development of this phone app. ',
 };
 
   /*
