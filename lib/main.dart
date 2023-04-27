@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
             'Ohio Constitution App',
           ),
           leading: Container(
-            child: Image.asset('assets/images/trademark.PNG')
+            //child: Image.asset('assets/images/trademark.PNG')
           )
           ),
           body: _buildListView(context),
